@@ -1,0 +1,28 @@
+
+name: Update Blocklist
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Run script
+        run: |
+          chmod +x merge.sh
+          ./merge.sh
+
+      - name: Commit changes
+        run: |
+          git config user.name "bot"
+          git config user.email "bot@example.com"
+          git add merged.txt
+          git commit -m "auto update" || echo "no changes"
+          git push
+		  
