@@ -1,3 +1,4 @@
 Block IR Ads, Block List</br>
 
-Automatic Link: from a few databases and merged all into one file.
+Automatic Link: from a few databases and merged all into one file.</br>
+ You can use it in your AdGuard  DNS Block list database for Blocking Ads.
