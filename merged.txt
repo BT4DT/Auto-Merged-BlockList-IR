@@ -1,7 +1,4 @@
-@@||google.com^
 @@||gstatic.com^
-@@||cloudflare.com^
-@@||cloudflare-dns.com^
 @@||digikala.com^
 @@||snapp.ir^
 @@||soft98.ir^
@@ -14,6 +11,7 @@
 @@||filimo.com^
 @@||irancell.ir^
 @@||mci.ir^
+@@||soft98.ir^
 @@||shaparak.ir^
 @@||zarinpal.com^
 @@||dnsforge.de^
