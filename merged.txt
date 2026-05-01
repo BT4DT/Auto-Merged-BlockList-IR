@@ -723,6 +723,7 @@
 ||dustaan.com^
 ||e-earn.ir^
 ||e-teb.com^
+||ecc.news^
 ||ecoiran.com^
 ||econews.ir^
 ||eghtesademeli.com^
@@ -992,6 +993,7 @@
 ||itbazar.com^
 ||itgheymat.com^
 ||itna.ir^
+||itpnews.com^
 ||itresan.com^
 ||ivnanews.ir^
 ||iwo.ir^
