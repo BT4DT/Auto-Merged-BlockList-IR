@@ -2,7 +2,7 @@
 
 rm -f merged.txt raw.txt clean.txt whitelist.txt final.txt
 
-# ===== دانلود لیست‌ها =====
+# ===== list =====
 urls=(
 "https://github.com/MasterKia/PersianBlocker/raw/refs/heads/main/PersianBlocker-Deprecated.txt"
 "https://github.com/MasterKia/PersianBlocker/raw/refs/heads/main/PersianBlocker.txt"
@@ -31,24 +31,21 @@ for url in "${urls[@]}"; do
   curl -sL "$url" >> raw.txt
 done
 
-# ===== استخراج domain =====
+# ===== extract domain =====
 grep -Eo '([a-zA-Z0-9-]+\.)+[a-zA-Z]{2,}' raw.txt > clean.txt
 
-# ===== حذف موارد اضافی =====
+# ===== Del junk =====
 grep -vE 'localhost|localdomain|broadcasthost' clean.txt > tmp.txt
 
-# ===== تبدیل به adblock =====
+# ===== convert adblock =====
 sed 's/^/||/' tmp.txt | sed 's/$/^/' > merged.txt
 
-# ===== حذف duplicate =====
+# ===== Del duplicate =====
 sort -u merged.txt > merged_clean.txt
 
-# ===== ساخت whitelist =====
+# ===== Make whitelist =====
 cat <<EOF > whitelist.txt
-@@||google.com^
 @@||gstatic.com^
-@@||cloudflare.com^
-@@||cloudflare-dns.com^
 @@||digikala.com^
 @@||snapp.ir^
 @@||soft98.ir^
@@ -61,6 +58,7 @@ cat <<EOF > whitelist.txt
 @@||filimo.com^
 @@||irancell.ir^
 @@||mci.ir^
+@@||soft98.ir^
 @@||shaparak.ir^
 @@||zarinpal.com^
 @@||dnsforge.de^
@@ -72,11 +70,11 @@ cat <<EOF > whitelist.txt
 @@||idpay.ir^
 EOF
 
-# ===== ترکیب نهایی =====
+# ===== Final =====
 cat whitelist.txt merged_clean.txt > final.txt
 
-# ===== خروجی =====
+# ===== Export =====
 mv final.txt merged.txt
 
-# ===== پاکسازی =====
+# ===== Clean =====
 rm raw.txt clean.txt tmp.txt merged_clean.txt whitelist.txt
