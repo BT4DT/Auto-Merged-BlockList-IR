@@ -1615,6 +1615,7 @@
 ||sornamusic.ir^
 ||source.gif^
 ||sourceiran.com^
+||span.AdvertisementIcon^
 ||span.ad^
 ||span.kt^
 ||span.post^
@@ -1839,6 +1840,7 @@
 ||web.eitaa.com^
 ||web.gif^
 ||web.rubika.ir^
+||web.splus.ir^
 ||web.webpushs.com^
 ||webamooz.com^
 ||webamoozcom.github.io^
