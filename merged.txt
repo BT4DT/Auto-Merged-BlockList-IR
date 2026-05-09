@@ -74,7 +74,7 @@
 ! Homepage: https://github.com/MasterKia/PersianBlocker
 ! In the corner:
 ! In-post ads:
-! Last modified: Sun, 3 May 2026 01:10:40 +0330
+! Last modified: Sat, 9 May 2026 07:39:18 +0330
 ! License: AGPLv3 (https://github.com/MasterKia/PersianBlocker/blob/main/LICENSE)
 ! License: https://codeberg.org/KhodeKiaa/PersianBlocker/src/branch/main/LICENSE
 ! Mobile
@@ -141,6 +141,7 @@
 ! cdn.sharghdaily.com/servev2/, cdn.donya-e-eqtesad.com/servev2/, cdn.fararu.com/servev2/, etc
 ! citna.ir:
 ! darkroid.ir:
+! digiform.ir:
 ! digikala.com:
 ! digiro.ir, gahar.ir, jobsacademy.ir, mihand.ir, modirnameh.ir, pedal.ir, softsaaz.ir, technet24.ir, appiroid.ir
 ! divar.ir:
@@ -1360,6 +1361,9 @@ digiato.com##.todaysNewsList__sidebar
 digiboy.ir##div#header-bar
 digiboy.ir##div.slider-tab-ring:has(> div.textwidget p > a)
 digiboy.ir##div.slider-tab-ring:has(> h4.extra-menu:has-text(حامیان ما))
+digiform.ir##+js(aeld, /pageshow|focus|blur|visibilitychange|resume|freeze/, logStateChange)
+digiform.ir##+js(remove-attr, oncopy|oncut|onpaste, body, complete)
+digiform.ir##body:style(cursor: revert !important; -webkit-touch-callout: default !important; -webkit-user-select: text !important; -khtml-user-select: text !important; -moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important; -webkit-tap-highlight-color: revert !important;)
 digikala.com##div.py-2:has(> div.items-center > div.swiper-container > div.swiper-wrapper > div.swiper-slide > div.h-full > div.flex > span.text-caption:has-text(سفارشی))
 digiro.ir##.main-term-3705
 digiro.ir##.main-term-none > .listing > .type-post > .item-inner > .featured > .term-badges:has-text(رپورتاژ آگهی):upward(.type-post)
