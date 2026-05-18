@@ -187,6 +187,7 @@
 ! https://github.com/AdguardTeam/AdguardFilters/issues/186949
 ! https://github.com/AdguardTeam/AdguardFilters/issues/211084
 ! https://github.com/AdguardTeam/AdguardFilters/issues/211800
+! https://github.com/AdguardTeam/AdguardFilters/issues/231021
 ! https://github.com/AdguardTeam/AdguardFilters/issues/33352
 ! https://github.com/AdguardTeam/AdguardFilters/issues/33437
 ! https://github.com/AdguardTeam/AdguardFilters/issues/42827
@@ -615,6 +616,7 @@
 !-------------------^ Malware/Phishing Sites ^-----------------!
 !-------------------v Malware/Phishing Sites v-----------------!
 !yasdl.com##.top-ads-wrap
+!||ac.ir/common/scripts/analytics/meetingLaunchIA.js^$script,1p
 #
 #  TODO: Check for breakages (used by tamasha.com), investigate into more tracking
 #  TODO: Remove it, Used by dlfox.com
@@ -3259,7 +3261,6 @@ zoomit.ir,zoomg.ir##div[class^="AdvertisingParser__Root"]
 ||abzarfa.com/services/minicounter^$script
 ||abzarfa.com/services/onlineusres^$script
 ||abzarfa.com/tools/ip^$script
-||ac.ir/common/scripts/analytics/meetingLaunchIA.js^$script,1p
 ||actionlog.divar.ir^$1p
 ||ad.technews-iran.com^
 ||adengine.telewebion.com^
