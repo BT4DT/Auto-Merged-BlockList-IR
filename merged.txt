@@ -73,11 +73,12 @@
 ! Homepage: https://github.com/MasterKia/PersianBlocker
 ! In the corner:
 ! In-post ads:
-! Last modified: Thu, 21 May 2026 14:48:29 +0330
+! Last modified: Thu, 21 May 2026 22:03:05 +0330
 ! License: AGPLv3 (https://github.com/MasterKia/PersianBlocker/blob/main/LICENSE)
 ! License: https://github.com/MasterKia/PersianBlocker/blob/main/LICENSE
 ! Mobile
 ! On sepehrtv.ir:
+! Popup ads:
 ! Popup: needpop (vc_url)
 ! Referral links disguised as movie download links
 ! Search products ads
@@ -127,6 +128,7 @@
 ! alaatv.com:
 ! alef.ir:
 ! alibaba.ir##+js(json-prune, data.0.attributes.loadingBanner.0.image)
+! androidha.com:
 ! aparat.com:
 ! applicationha.com, androidgozar.com, downloadkral.com, gold-team.org, iranecar.com, icoff.ee, koolakmag.ir,
 ! avaz-kurd.ir, power-music.ir
@@ -1082,6 +1084,7 @@ analytics.zoomit.ir
 androidgozar.com##+js(set, ShowPopUp, false)
 androidgozar.com##.ag-agah
 androidgozar.com##.post-sticky:upward(.row)
+androidha.com##.arh_banner
 androidha.com##div.arh_appad
 androidha.com##div.download_ad_box
 androidify.ir##div#ZAD
@@ -2877,7 +2880,10 @@ vidomusic.org
 vipofilm.com##.ads
 vipofilm.com##.tabligh
 vipofilm.com##aside > .title:has-text(تبلیغات):upward(aside)
+virgool.io###app-portal > div:has(a[rel="sponsored"] > img[alt="Ad"])
 virgool.io##+js(href-sanitizer, a[href^="https://l.vrgl.ir/r?"][href*="&l=http"], ?l)
+virgool.io##body > div:has(> div > a[rel="sponsored"])
+virgool.io##body[style="overflow: hidden;"]:style(overflow: auto !important;)
 virgool.io##div.is-justify-content-flex-end > a#js-register-button + div[style]:has(> input[placeholder^="شماره موبایل"])
 virgool.io##div.js-userLogin-popup
 vista.ir##a.textad
@@ -4120,6 +4126,7 @@ zoomit.ir,zoomg.ir##div[class^="AdvertisingParser__Root"]
 ||vigiato.net/wp-content/plugins/duracelltomi-google-tag-manager^
 ||vipofilm.com/wp-admin/admin-ajax.php?action=adwised
 ||vipofilm.com/wp-content/plugins/adwised/assets/adwisedpop.js^
+||virgool.io/api2/app/banners^
 ||virgool.io/api2/app/posts/*/ad^
 ||virgool.io/api2/app/posts/*/ad^$xhr,1p
 ||virgool.io/api2/app/session/read-ratio^$xhr,1p,method=post
