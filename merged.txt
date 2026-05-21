@@ -67,16 +67,15 @@
 ! Example: varandaz.com
 ! Expires: 5 days
 ! Expires: 5d
-! GitHub issues: https://codeberg.org/KhodeKiaa/PersianBlocker/issues
-! GitHub pull requests: https://codeberg.org/KhodeKiaa/PersianBlocker/pulls
+! GitHub issues: https://github.com/MasterKia/PersianBlocker/issues
+! GitHub pull requests: https://github.com/MasterKia/PersianBlocker/pulls
 ! Header ads:
-! Homepage: https://codeberg.org/KhodeKiaa/PersianBlocker
 ! Homepage: https://github.com/MasterKia/PersianBlocker
 ! In the corner:
 ! In-post ads:
-! Last modified: Sun, 10 May 2026 12:35:58 +0330
+! Last modified: Thu, 21 May 2026 14:48:29 +0330
 ! License: AGPLv3 (https://github.com/MasterKia/PersianBlocker/blob/main/LICENSE)
-! License: https://codeberg.org/KhodeKiaa/PersianBlocker/src/branch/main/LICENSE
+! License: https://github.com/MasterKia/PersianBlocker/blob/main/LICENSE
 ! Mobile
 ! On sepehrtv.ir:
 ! Popup: needpop (vc_url)
@@ -163,6 +162,7 @@
 ! ganjoor.net:
 ! gapgpt.app:
 ! gold-team.org:
+! hamkelasi.ir:
 ! hamrah-mechanic.com:
 ! https://2ad.ir/c1b7cjEW
 ! https://animelist.tv/movie/19786/one-fast-move
@@ -1776,6 +1776,7 @@ hadese24.ir##div.full-ad-box
 hadeseh.simra.cloud
 hamgardy.com##.sticky-ad
 hamisheonline.com##+js(acis, document.onclick, Hamisheonlinepaps)
+hamkelasi.ir##+js(nano-sib, countdown)
 hamshahrionline.ir###ads-container > .box > header:has-text(وبگردی):upward(.box)
 hamshahrionline.ir##.ads.box
 hamshahrionline.ir#@##ads-container
