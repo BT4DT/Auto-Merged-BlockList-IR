@@ -73,7 +73,7 @@
 ! Homepage: https://github.com/MasterKia/PersianBlocker
 ! In the corner:
 ! In-post ads:
-! Last modified: Thu, 21 May 2026 22:03:05 +0330
+! Last modified: Fri, 22 May 2026 20:06:05 +0330
 ! License: AGPLv3 (https://github.com/MasterKia/PersianBlocker/blob/main/LICENSE)
 ! License: https://github.com/MasterKia/PersianBlocker/blob/main/LICENSE
 ! Mobile
@@ -495,7 +495,6 @@
 ! nazriyab.app:
 ! nex1.ir##+js(set, needpop, 1)
 ! ninisite.com:
-! offerdaily.ir:
 ! p30afzar.com##+js(aopr, faPa)
 ! p30download.ir:
 ! par30dl.net:
@@ -522,6 +521,7 @@
 ! shomanews.com:
 ! soft98.ir:
 ! tabnak.ir:
+! takhfif.co:
 ! takhfifan.com##+js(nostif, redirect_url)
 ! techna.news##div[class="widget_text sidebar-box"]:has(div[id*="kaprila_"])
 ! telewebion.ir:
@@ -2171,7 +2171,6 @@ noorlib.ir##div.page-contents > div.footnote-list-container:style(-webkit-touch-
 nospam.ir##div#contents a[rel$="sponsored"]
 notifhub.com
 nournews.ir##div#Ads_Fix_pnlMain
-offerdaily.ir##+js(href-sanitizer, a[href^="https://offerdaily.ir/index.php?do=go&url="], ?url -base64)
 offers.sapra.ir
 oila.tj##+js(aopr, window.LOCO_DATA.copyrightTranslation)
 oila.tj##.new-banner
@@ -2688,6 +2687,9 @@ tak3da.com##.adss
 tak3da.com##.container_ads
 takblog.net###box_1398
 takblog.net###popbox-blackout
+takhfif.co##.lepopup-popup-container
+takhfif.co##.lepopup-popup-overlay
+takhfif.co##.page-container > a[href^="https://www.filimo.com/m/"]
 takhfifan.com##+js(set, _paq, [])
 takhfifan.com##+js(set, _paq.push, noopFunc)
 takhfifan.com##div.mask
