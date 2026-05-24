@@ -73,7 +73,7 @@
 ! Homepage: https://github.com/MasterKia/PersianBlocker
 ! In the corner:
 ! In-post ads:
-! Last modified: Fri, 22 May 2026 20:06:05 +0330
+! Last modified: Sun, 24 May 2026 16:18:02 +0330
 ! License: AGPLv3 (https://github.com/MasterKia/PersianBlocker/blob/main/LICENSE)
 ! License: https://github.com/MasterKia/PersianBlocker/blob/main/LICENSE
 ! Mobile
@@ -481,6 +481,7 @@
 ! jobinja.ir:
 ! khabaronline.ir:
 ! mali3.com:
+! mashaghelkadeh.com:
 ! mashreghnews.ir###box55
 ! mashreghnews.ir###box56
 ! mashreghnews.ir###box68
@@ -2014,6 +2015,7 @@ majalesalamat.com##.adwrap-widget
 mali3.com##.code-block:has(> a[target="_blank"][rel] > img[alt][width="800"][height="100"])
 mali3.com##.sidebar-area:has(> a[href] > img[width="330"][height="150"][alt=""])
 marzfun.com##aside:has(aside>div>div>span:has-text(تبلیغ))
+mashaghelkadeh.com#@#.related-ads
 mashreghnews.ir##[id^="ad"]
 mastertest.ir##div.post-content > div.fusion-builder-row-1 > div.fusion-row:has(> div.fusion-layout-column a[data-wpel-link="external"])
 mat-pnu.ir
