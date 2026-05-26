@@ -15,6 +15,7 @@ urls=(
 "https://github.com/MasterKia/PersianBlocker/raw/refs/heads/main/PersianBlockerAds.txt"
 # ===  🟢 Persian -PersianBlockerHosts.txt:: Persian
 "https://github.com/MasterKia/PersianBlocker/raw/refs/heads/main/PersianBlockerHosts.txt"
+# =========== END
 )
 
 # ===== download =====
@@ -34,10 +35,18 @@ sort -u cleaned.txt > merged_clean.txt
 cat <<EOF > whitelist.txt
 # ==== WHITELIST ====
 # remove # to enable
-# @@||google.com^
-# @@||gstatic.com^
-# @@||cloudflare.com^
-@@||dnsforge.de^
+@@||mymax.top^$important
+@@||dnsz.in^$important
+@@||plusiptv.dnsz.in^$important
+@@||tvdns.top^$important
+@@||plusiptv.tvdns.top^$important
+@@||media-shop.top^$important
+@@||filimo.com^$important
+@@||namava.ir^$important
+@@||filmnet.ir^$important
+@@||snapp.site^$important
+@@||aptel.ir^$important
+@@||soft98.ir^$important
 EOF
 
 # ===== final =====
