@@ -1,5 +1,10 @@
 # ==== WHITELIST ====
 # remove # to enable
+@@||dns.google.com^
+@@||cloudflare.com^
+@@||cloudflare-dns.com^
+@@||gstatic.com^
+@@||dnsforge.de^
 @@||mymax.top^
 @@||dnsz.in^
 @@||plusiptv.dnsz.in^
@@ -12,6 +17,12 @@
 @@||snapp.site^
 @@||aptel.ir^
 @@||soft98.ir^
+@@||github.com^
+@@||tailscale.com^
+@@||zerotier.com^
+@@||goodcloud.xyz^
+@@||astrowarp.net^
+@@||youtubei.googleapis.com^
 !
 !  cdn.hostdl.com/assets/downloadha.gif, cdn.hostdl.com/img/mihandownload.gif, 
 !  لیستی برای برگرداندن آزادی کاربران، چون هر کاربر این آزادی را دارد که چه چیزی وارد مرورگرش می‌شود و چه چیزی وارد نمی‌شود
