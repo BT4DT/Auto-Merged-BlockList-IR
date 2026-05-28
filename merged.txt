@@ -81,7 +81,7 @@
 ! Homepage: https://github.com/MasterKia/PersianBlocker
 ! In the corner:
 ! In-post ads:
-! Last modified: Sun, 24 May 2026 16:18:02 +0330
+! Last modified: Thu, 28 May 2026 12:44:23 +0330
 ! License: AGPLv3 (https://github.com/MasterKia/PersianBlocker/blob/main/LICENSE)
 ! License: https://github.com/MasterKia/PersianBlocker/blob/main/LICENSE
 ! Mobile
@@ -92,6 +92,7 @@
 ! Search products ads
 ! Sidebar ads
 ! Sidebar ads:
+! Sidebar text ads:
 ! Snapp Taxi
 ! Sponsored articles (https://www.zoomit.ir/ mainpage):
 ! Sponsored articles (https://www.zoomit.ir/archive):
@@ -133,6 +134,7 @@
 ! ^ Used by zima.ir
 ! abadis.ir:
 ! afkarnews.com, bartarinha.ir, donya-e-eqtesad.com, etemadonline.com, ecoiran.com, eghtesadnews.com,
+! ahlolbait.com:
 ! alaatv.com:
 ! alef.ir:
 ! alibaba.ir##+js(json-prune, data.0.attributes.loadingBanner.0.image)
@@ -294,12 +296,10 @@
 ! https://github.com/MasterKia/PersianBlocker/issues/170
 ! https://github.com/MasterKia/PersianBlocker/issues/173
 ! https://github.com/MasterKia/PersianBlocker/issues/174
-! https://github.com/MasterKia/PersianBlocker/issues/175
 ! https://github.com/MasterKia/PersianBlocker/issues/176
 ! https://github.com/MasterKia/PersianBlocker/issues/18
 ! https://github.com/MasterKia/PersianBlocker/issues/183
 ! https://github.com/MasterKia/PersianBlocker/issues/186
-! https://github.com/MasterKia/PersianBlocker/issues/188
 ! https://github.com/MasterKia/PersianBlocker/issues/189
 ! https://github.com/MasterKia/PersianBlocker/issues/190
 ! https://github.com/MasterKia/PersianBlocker/issues/192
@@ -336,14 +336,12 @@
 ! https://github.com/MasterKia/PersianBlocker/issues/285
 ! https://github.com/MasterKia/PersianBlocker/issues/286
 ! https://github.com/MasterKia/PersianBlocker/issues/289
-! https://github.com/MasterKia/PersianBlocker/issues/29
 ! https://github.com/MasterKia/PersianBlocker/issues/290
 ! https://github.com/MasterKia/PersianBlocker/issues/291
 ! https://github.com/MasterKia/PersianBlocker/issues/292
 ! https://github.com/MasterKia/PersianBlocker/issues/293
 ! https://github.com/MasterKia/PersianBlocker/issues/298
 ! https://github.com/MasterKia/PersianBlocker/issues/3
-! https://github.com/MasterKia/PersianBlocker/issues/30
 ! https://github.com/MasterKia/PersianBlocker/issues/300
 ! https://github.com/MasterKia/PersianBlocker/issues/304#issuecomment-3044430691
 ! https://github.com/MasterKia/PersianBlocker/issues/307
@@ -355,7 +353,6 @@
 ! https://github.com/MasterKia/PersianBlocker/issues/344
 ! https://github.com/MasterKia/PersianBlocker/issues/35
 ! https://github.com/MasterKia/PersianBlocker/issues/357
-! https://github.com/MasterKia/PersianBlocker/issues/36
 ! https://github.com/MasterKia/PersianBlocker/issues/37
 ! https://github.com/MasterKia/PersianBlocker/issues/38
 ! https://github.com/MasterKia/PersianBlocker/issues/4
@@ -461,7 +458,6 @@
 ! https://github.com/Webamoozcom/warning-list/discussions/94
 ! https://github.com/nimasaj/uBOPa/issues/56
 ! https://github.com/uBlockOrigin/uAssets/issues/12411
-! https://github.com/uBlockOrigin/uAssets/issues/13610#issuecomment-1148656995
 ! https://github.com/uBlockOrigin/uAssets/issues/13658#issuecomment-1153092391
 ! https://github.com/uBlockOrigin/uAssets/issues/14480
 ! https://github.com/uBlockOrigin/uAssets/issues/17575
@@ -542,6 +538,7 @@
 ! varzesh3.com:
 ! vgdl.ir:
 ! video.varzesh3.com:
+! vigiato.net:
 ! virgool.io:
 ! web.bale.ai:
 ! web.eitaa.com:
@@ -549,10 +546,13 @@
 ! web.splus.ir:
 ! websocket.ilna.ir, websocket.khanefootball.com, websocket.55online.news, websocket.sobhtazeh.news, websocket.varandaz.com
 ! wikihoghoogh.net:
+! wikisemnan.com:
+! wisgoon.com:
 ! wp-content/plugins/adwised
 ! wp-content/plugins/better-ads
 ! wp-content/plugins/google-analytics
 ! yasdl.com:
+! yektablog.net:
 ! zoomit.ir, zoomg.ir, pedal.ir, filmzi.tv/filmzi.com:
 ! ||adservice.google.com/adsid/integrator.js?domain=tamasha.com
 ! ||affil.charkhoneh.com^$removeparam=affiliateId
@@ -816,7 +816,6 @@
 *###kaprila_linktable
 *##.zxc
 *$frame,3p,domain=kojaro.com
-*$frame,domain=yun.ir
 *$image,3p,from=scienceforfree.blog.ir,to=parsvds.com|numberland.ir
 *$image,strict3p,domain=rozup.ir
 *$script,3p,domain=najiremix.ir
@@ -978,7 +977,6 @@
 @@||video.cdn.yektanet.com/video-$script,3p,domain=gostaresh.news
 @@||webgozar.com/poll/vote.aspx?Code=$frame,3p
 @@||webgozar.ir/c.aspx?Code=*&t=poll^$script,3p
-@@||webii.ir/upload/ads/$image,1p
 @@||yektanet.com/static/silvermine-videojs-quality-selector.min.js^$script,3p,domain=fararu.com|gostaresh.news
 @@||yektanet.com/static/vast-client.js^$script,3p,domain=fararu.com|gostaresh.news
 @@||yektanet.com/static/video-js.min.css^$css,3p,domain=fararu.com|gostaresh.news
@@ -2841,7 +2839,6 @@ uploadboy.com##div#popupModal
 uploadboy.com##div.ads
 uploadboy.com##div.modal-backdrop
 uploadboy.com##input[type="hidden"]:is(input[name="usr_login"],input[name="referer"], input#usr_resolution, input#usr_os, input#usr_browser):remove()
-uploadgoogle.ir##+js(nowoif)
 uploadkon.ir##div.ads
 uploadkon.ir##li.ad-link
 uplod.ir##.footer-back-link
@@ -2889,6 +2886,8 @@ vgdl.ir##div#ads__start_of_the_post
 video-learn.ir#@#.header-adv
 video-view-api.varzesh3.com
 vidomusic.org
+vigiato.net##.ad_290_290
+vigiato.net##.ad_728_90
 vipofilm.com##.ads
 vipofilm.com##.tabligh
 vipofilm.com##aside > .title:has-text(تبلیغات):upward(aside)
@@ -2898,8 +2897,6 @@ virgool.io##body > div:has(> div > a[rel="sponsored"])
 virgool.io##body[style="overflow: hidden;"]:style(overflow: auto !important;)
 virgool.io##div.is-justify-content-flex-end > a#js-register-button + div[style]:has(> input[placeholder^="شماره موبایل"])
 virgool.io##div.js-userLogin-popup
-vista.ir##a.textad
-vista.ir##a[href^="/ad/"][target="_blank"]
 waykingroup.com
 web.bale.ai##div[data-sentry-component="createSponsoredMessageItem"]
 web.bale.ai##div[data-testid="dialog-ad"]
@@ -2907,31 +2904,16 @@ web.eitaa.com##.ads-active
 web.eitaa.com##div.chatlist-parts > div.chatlist-top > ul.ads-dialog-box
 web.rubika.ir##rb-chat-ads-container
 web.splus.ir##.ListItem:has(span.AdvertisementIcon)
-webgoo.ir###kaprila_linktable_left
-webgoo.ir##.left-block-top
-webgozar.com##div.colRight div[class^="adsBox"]
-webgozar.com##div.topAds
-webii.ir###slider-box
-webii.ir##.mortabet-links
-webii.ir##div.row:nth-of-type(2) > .col-xs-12 > .category-side-ads
-webii.ir#@#.ads-box
-webii.ir#@#.ads-sidebar
 websocket.55online.news
 websocket.ilna.ir
 websocket.khanefootball.com
 websocket.sobhtazeh.news
 websocket.varandaz.com
-wikihoax.org##.adsBanner
-wikihoax.org##.stream-item-widget
-wikihoax.org##.two-ad-banners
-wikihoax.org##.widget-ad-image
-wikihoax.org##.widget_media_image.widget.container-wrapper
 wikihoghoogh.net###siteNotice
 wikisemnan.com###text-12
 wikisemnan.com###text-24
 wikisemnan.com#@#.ads-image
 wintap.io
-wisgoon.com##div.tb-box
 ws.namava.ir
 www.digikala.com##a[href^="https://tabdeal.org/"].w-full
 www.digikala.com##article > .items-center .mr-auto > .mr-1 > svg[style$="fill: var(--color-ad);"] .text-neutral-500::after:style(content: ' 🚫 (تبلیغ) 🚫 ' !important; color: red !important; font-weight: bold !important;  font-size: large !important;)
@@ -3213,40 +3195,15 @@ www.google.com##div#search span[jsaction] > a[href*="zardfilm.in"]> h3::after:st
 www.google.com##div#search span[jsaction] > a[href*="zarfilm.com"]> h3::after:style(content: ' [نیمه‌اشتراکی] ' !important; color: #64b502 !important; font-weight: bold !important;)
 www.google.com##div#search span[jsaction] > a[href*="zflix.ir"]> h3::after:style(content: ' [دارای حذفیات] ' !important; color: #E6000D !important;)
 www.google.com##div#search span[jsaction] > a[href*="zinofilm.ir"]> h3::after:style(content: ' [دارای حذفیات] ' !important; color: #E6000D !important;)
-xip.li##+js(set, count, 0)
-xip.li##.form-inline:others()
-yasdl.com##.ads-block
 yasdl.com##.fixed-post
-yasdl.com##.row.fixed-post.post
 yasdl.com##.sidebar-textads
-yasdl.com##.top-ads
 yasdl.com##.top-ads-wrap:style(width: 0px !important; height: 0px !important;)
-yeknet.ir##+js(aopr, needpop)
 yektabanner.com
-yektablog.net###box_1398
 yektablog.net###popbox-blackout
 yektanet.com
-yektapress.com##.col-2:style(width: 60% !important;)
-yektapress.com##.no-padd-1st-child:style(width: 40% !important;)
 yelloadwise.ir
 ylad.ir
 yoozbit.com
-youc.ir##.stream-item
-youc.ir##.widget > .widget-title:has-text(تبلیغات):upward(.widget)
-youc.ir##:not(:matches-path(/author/d-reportages)) ul#posts-container > li.post-item > .post-details > .post-meta > .author-meta:has-text(دپارتمان تبلیغات):upward(li.post-item)
-yun.ir##.advertisements
-yun.ir#%#//scriptlet('set-cookie-reload', 'bypasstimer', '10')
-zarebin.ir##+js(href-sanitizer, div#link-container > a[data-sentry-element="Link"], ?url)
-zaya.io##div.header-banners
-zendegionline.ir##.home-ads
-zendegionline.ir##.sidebar-ads
-zibamoon.com###BannerHome
-zibamoon.com##.BannerA
-zibamoon.com##.DetailArea > .AdAreaDetail
-zibamoon.com##.LeftSide > .TableOfContent > div[style="text-align:center;"]:has-text(صفحات مرتبط):upward(.TableOfContent)
-zibamoon.com##.MobileBannerArea
-zibamoon.com##div[id^="BehinAva"]
-zohur12.ir##.sideads
 zoomit.ir##div.mt-4 > a[href^="https://www.zoomit.ir/pr/"]
 zoomit.ir##div.mt-4 > a[href^="https://www.zoomit.ir/pr/"] + .bg-borderPrimary
 zoomit.ir##div[class^="sc-"][flexdirection="column"][flexwrap="nowrap"] > .flex > .scroll-m-16:has(> a[href^="https://www.zoomit.ir/pr/"])
@@ -3319,7 +3276,7 @@ zoomit.ir,zoomg.ir##div[class^="AdvertisingParser__Root"]
 ||afkarnews.com/statics/
 ||aftabir.com/uploads/banners^
 ||aftabyazdonline.ir/templates/aftabeyazd/images/ads
-||ahlolbait.com/ads/script.js^$script,1p
+||ahlolbait.com/ads/script.js^
 ||aitrades.com^$all
 ||akhbarrasmi.com^$3p
 ||alaqsastorm.com/aqsa/ads.php^$image,3p
@@ -3463,8 +3420,6 @@ zoomit.ir,zoomg.ir##div[class^="AdvertisingParser__Root"]
 ||byst.ir/ThemesStore/ads
 ||byst.ir/Visit/view
 ||c.filimium.com/meta/affiliate$doc
-||cafevdo.zarebin.ir/api/v1/accounts/action^$xhr,1p,method=post
-||cafevdo.zarebin.ir/api/v1/events^$xhr,1p,method=post
 ||caffecinema.com/media/banners/
 ||campec.ir/code/popup
 ||cannews.aero/images/banner
@@ -3490,7 +3445,6 @@ zoomit.ir,zoomg.ir##div[class^="AdvertisingParser__Root"]
 ||cdn.sargarme.com/uploads/*.gif$image,1p
 ||cdn.shomanews.com/servev2/*.gif$image,1p
 ||cdn.tabnak.ir/files/fa/adv^
-||cdnfa.com/*.gif^$image,3p,domain=zendegionline.ir
 ||cdni.jabeh.com/videojs.ads.min.css^$css
 ||cdni.jabeh.com/videojs.ads.min.js^$script
 ||cdni.jabeh.com/videojs.ima.min.js^$script
@@ -3624,7 +3578,7 @@ zoomit.ir,zoomg.ir##div[class^="AdvertisingParser__Root"]
 ||gateway.telewebion.com/broker/api/v1/message/archive^$xhr,1p,method=POST
 ||gateway.telewebion.com/broker/api/v1/message/live^$xhr,1p,method=options|post
 ||gateway.telewebion.com/broker/api/v1/message/twplayer^$xhr,1p,method=POST
-||gateway.wisgoon.com/services/vast^$xhr,image,1p
+||gateway.wisgoon.com/services/vast^
 ||geoip.imber.live^
 ||getandroid.ir/Files/js/landing$script,1p
 ||ghatreh.com/ads^
@@ -3644,8 +3598,6 @@ zoomit.ir,zoomg.ir##div[class^="AdvertisingParser__Root"]
 ||hadeseh.simra.cloud^
 ||hamgardy.com/Uploads/Advertisment/
 ||hamrah-mechanic.com/mag/wp-content/uploads/*.gif^
-||hamrahi.cloud/drive-endpoint.log^$xhr,3p
-||hamrahi.cloud/video-timeline.log^$xhr,3p
 ||hamravesh.com^$3p
 ||hamserver.ir^$3p
 ||hamshahrionline.ir/rest/visit^
@@ -3664,7 +3616,7 @@ zoomit.ir,zoomg.ir##div[class^="AdvertisingParser__Root"]
 ||ifilo.net/onclick^
 ||iica.ir/images/*.gif^$image,1p
 ||images.kojaro.com/*.gif^$image,1p
-||imasdk.googleapis.com/js/core/bridge*.html$frame,important,domain=wisgoon.com
+||imasdk.googleapis.com/js/core/bridge*.html^$important,from=wisgoon.com
 ||imencms.com/mobile/ptadv.jpg
 ||img.cdn.asandl.com/Panel^$image,1p
 ||img.patoghu.com/new^$image,1p
@@ -3854,6 +3806,7 @@ zoomit.ir,zoomg.ir##div[class^="AdvertisingParser__Root"]
 ||parsnaz.com/ads-link^$image,1p
 ||parsnaz.com/ads^$image,1p
 ||partclick.ir^
+||parto.media/serve^
 ||patoghu.com/analytics.js^$script,1p
 ||patoghu.com/n/d^$script,1p
 ||payju.ir/sites/all/themes/peyjo/ads^$image,1p
@@ -3958,7 +3911,6 @@ zoomit.ir,zoomg.ir##div[class^="AdvertisingParser__Root"]
 ||sentry.footballiapp.com^$3p,domain=footballi.net
 ||sentry.hamravesh.com^
 ||sentry.malltina.com^
-||sentry.mci.dev^
 ||sentry.namava.ir^
 ||sentry.querastaff.ir^
 ||sentry.virgool.io^$1p
@@ -4135,7 +4087,6 @@ zoomit.ir,zoomg.ir##div[class^="AdvertisingParser__Root"]
 ||video-learn.ir/code/popup^
 ||vidiran.com^$3p,domain=download.ir
 ||vidomusic.org^
-||vigiato.net/wp-content/plugins/duracelltomi-google-tag-manager^
 ||vipofilm.com/wp-admin/admin-ajax.php?action=adwised
 ||vipofilm.com/wp-content/plugins/adwised/assets/adwisedpop.js^
 ||virgool.io/api2/app/banners^
@@ -4144,22 +4095,14 @@ zoomit.ir,zoomg.ir##div[class^="AdvertisingParser__Root"]
 ||virgool.io/api2/app/session/read-ratio^$xhr,1p,method=post
 ||virgool.io/api2/app/session/start^$xhr,1p,method=post
 ||virgool.io/api2/app/users/relatedAds^$xhr,1p
-||vista.ir/ads^$image,1p
 ||waykingroup.com^$all
-||wcity4.site/wp-json/wp-statistics^
 ||web.webpushs.com^
-||webgozar.com/adimg^$image,1p
 ||webgozar.com^$3p
 ||webgozar.ir^$3p
-||webii.ir/Images/Banner^
-||webii.ir/images/loading.svg
 ||webpu.sh^$3p
 ||websocket.*/?u=*&s=$websocket,1p,strict3p
 ||wideads.com^
 ||widget.fafait.net^$3p
-||wikihoax.org/wp-content/cache/busting/1/wp-content/plugins/eazy-ad-unblocker^
-||wikihoax.org/wp-content/plugins/eazy-ad-unblocker^
-||wikihoax.org/wp-content/uploads/*/ads
 ||wintap.io^$all
 ||ws.namava.ir/?%27UserToken=*&client_info=^$websocket,1p
 ||www.digikala.com^$doc,removeparam=bCode
@@ -4173,21 +4116,13 @@ zoomit.ir,zoomg.ir##div[class^="AdvertisingParser__Root"]
 ||yasdl.com/wp-content/uploads/*.gif^
 ||yekbux.com^
 ||yektabanner.com^
-||yektablog.net/js/adjs.php
+||yektablog.net/js/adjs.php^
 ||yektanet.com^
 ||yelloadwise.ir^
 ||ylad.ir^
 ||yoozbit.com^$all
-||yun.ir/advertisement^
 ||zarad.net^
-||zarebin.ir/media/detail^$removeparam=origin
-||zarebin.ir/media/detail^$removeparam=publisher
-||zarebin.ir/media/detail^$removeparam=q
-||zarebin.ir/platform/api/supervisor/v1/events^$1p,method=post
-||zarebin.ir/we/api/v1/web-enrich/elements?qsrc=user^$xhr,1p,method=post
 ||zarpop.com^
 ||zarpop.ir^
-||zibamoon.com/Files/Ads/$image,1p
-||zinofilm.ir/wp-json/wp-statistics^$xhr,1p
 ~arongroups.site,~arongroups.co##a[href^="https://arongroups.co/"]
 ~arongroups.site,~arongroups.co##a[href^="https://arongroups.site/"]
