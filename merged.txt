@@ -92,7 +92,7 @@
 ! Homepage: https://github.com/MasterKia/PersianBlocker
 ! In the corner:
 ! In-post ads:
-! Last modified: Thu, 28 May 2026 12:44:23 +0330
+! Last modified: Thu, 28 May 2026 14:05:28 +0330
 ! License: AGPLv3 (https://github.com/MasterKia/PersianBlocker/blob/main/LICENSE)
 ! License: https://github.com/MasterKia/PersianBlocker/blob/main/LICENSE
 ! Mobile
@@ -145,6 +145,7 @@
 ! ^ Used by zima.ir
 ! abadis.ir:
 ! afkarnews.com, bartarinha.ir, donya-e-eqtesad.com, etemadonline.com, ecoiran.com, eghtesadnews.com,
+! agahinet.com:
 ! ahlolbait.com:
 ! alaatv.com:
 ! alef.ir:
@@ -930,6 +931,7 @@
 @@||1000site.ir/asset/images/images/adpage/$image,1p
 @@||1000site.ir/home/ads/asset/favicon.ico$image,1p
 @@||ads.beytoote.com/live_chat$1p
+@@||agahinet.com/adv^
 @@||api.onclick.ir/ifilo/vast.xml^$xhr,domain=ifilo.net
 @@||asandl.com/ads/img/AsanDl-$image,1p
 @@||beytoote.com/ads/images_$image,1p
@@ -1057,6 +1059,7 @@ aftabir.com##.col-sm-3 > .block > .img:not(:has(a[href*="aftabir.com"]))
 aftabnews.ir##.adv_l
 aftabnews.ir##.adv_r_news2
 aftabyazdonline.ir##.co-ads
+agahinet.com#@#.adv-box
 aitrades.com
 akharinnews.com###ads
 akharinnews.com###left2
