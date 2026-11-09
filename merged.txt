@@ -699,164 +699,6 @@
 !-------------------v Malware/Phishing Sites v-----------------!
 !yasdl.com##.top-ads-wrap
 !||ac.ir/common/scripts/analytics/meetingLaunchIA.js^$script,1p
-#
-#  TODO: Check for breakages (used by tamasha.com), investigate into more tracking
-#  TODO: Remove it, Used by dlfox.com
-# (e.g. sharghdaily.com):
-# ===VV=== #
-# ==VVV== #
-# >> A <<
-# >> B <<
-# >> C <<
-# >> D <<
-# >> E <<
-# >> F <<
-# >> G <<
-# >> H <<
-# >> I <<
-# >> J <<
-# >> K <<
-# >> L <<
-# >> M <<
-# >> N <<
-# >> O <<
-# >> P <<
-# >> Q <<
-# >> R <<
-# >> S <<
-# >> T <<
-# >> U <<
-# >> V <<
-# >> W <<
-# >> X <<
-# >> Y <<
-# >> Z <<
-# AdlIran scam
-# Description: Filters to block ads in Persian websites 
-# Description: سرانجام، یک لیست بهینه و گسترده برای مسدودسازی تبلیغ ها و ردیاب ها در سایت های پارسی زبان!
-# Discussion?
-# Example: anaj.ir
-# Example: androidha.com
-# Example: asrakhbar.com
-# Example: behtarino.com
-# Example: gapfilm.ir
-# Example: sahebkhabar.ir
-# Example: tamasha.com/v/DDlMB
-# Example: uploadgoogle.com
-# Expires: 5 days
-# Expires: 7 days
-# General #
-# GitHub issues: https://codeberg.org/KhodeKiaa/PersianBlocker/issues
-# GitHub pull requests: https://codeberg.org/KhodeKiaa/PersianBlocker/pulls
-# Homepage: https://codeberg.org/KhodeKiaa/PersianBlocker
-# Homepage: https://github.com/MasterKia/PersianBlocker
-# Last modified: %timestamp%
-# License: AGPLv3 (https://github.com/MasterKia/PersianBlocker/blob/main/LICENSE)
-# License: https://codeberg.org/KhodeKiaa/PersianBlocker/src/branch/main/LICENSE
-# OISD maintainer: If a domain is used for ads, but also is required for "wanted content" (like video playback) it should not be blocked by domain/hosts lists. But rather left to handle by content blockers instead. (uBlock Origin, etc).
-# On zarebin.ir
-# Referral links disguised as movie download links
-# Specific #
-# TODO: Investigate 
-# TODO: Remove it, Used by marzfun.com
-# Title: PersianBlocker (Hosts)
-# Title: PersianBlockerAds-Domains
-# Title: PersianBlockerAds-Hosts
-# Used by i-video.ir
-# What domain?
-# ^ Example: eghtesadonline.com
-# ^ Example: film.tebyan.net
-# ^ Example: imovie-dl.org
-# ^ Example: par30games.net
-# ^ Used by Digiato, Vigiato, Rooziato
-# ^ Used by digikala.com
-# ^ Used by irna.ir
-# ^ Used by kojaro.com
-# aparat.com:
-# beytoote.com:
-# divar.ir:
-# football360.ir:
-# https://forum.adguard.com/index.php?threads/vigiato-net-resolved.44366/
-# https://github.com/AdguardTeam/AdguardFilters/issues/79983
-# https://github.com/Blockunity/Warning-List/discussions/44
-# https://github.com/MasterKia/PersianBlocker/issues/101
-# https://github.com/MasterKia/PersianBlocker/issues/107
-# https://github.com/MasterKia/PersianBlocker/issues/121
-# https://github.com/MasterKia/PersianBlocker/issues/125
-# https://github.com/MasterKia/PersianBlocker/issues/210
-# https://github.com/MasterKia/PersianBlocker/issues/219
-# https://github.com/MasterKia/PersianBlocker/issues/291
-# https://github.com/MasterKia/PersianBlocker/issues/93
-# https://github.com/MasterKia/PersianBlocker/pull/201
-# https://github.com/Webamoozcom/warning-list/discussions/119
-# https://github.com/Webamoozcom/warning-list/discussions/12
-# https://github.com/Webamoozcom/warning-list/discussions/125
-# https://github.com/Webamoozcom/warning-list/discussions/127
-# https://github.com/Webamoozcom/warning-list/discussions/129
-# https://github.com/Webamoozcom/warning-list/discussions/130
-# https://github.com/Webamoozcom/warning-list/discussions/131
-# https://github.com/Webamoozcom/warning-list/discussions/132
-# https://github.com/Webamoozcom/warning-list/discussions/138
-# https://github.com/Webamoozcom/warning-list/discussions/17
-# https://github.com/Webamoozcom/warning-list/discussions/170
-# https://github.com/Webamoozcom/warning-list/discussions/171
-# https://github.com/Webamoozcom/warning-list/discussions/174
-# https://github.com/Webamoozcom/warning-list/discussions/184
-# https://github.com/Webamoozcom/warning-list/discussions/185
-# https://github.com/Webamoozcom/warning-list/discussions/19
-# https://github.com/Webamoozcom/warning-list/discussions/192
-# https://github.com/Webamoozcom/warning-list/discussions/23
-# https://github.com/Webamoozcom/warning-list/discussions/26
-# https://github.com/Webamoozcom/warning-list/discussions/27
-# https://github.com/Webamoozcom/warning-list/discussions/29
-# https://github.com/Webamoozcom/warning-list/discussions/30
-# https://github.com/Webamoozcom/warning-list/discussions/34
-# https://github.com/Webamoozcom/warning-list/discussions/37
-# https://github.com/Webamoozcom/warning-list/discussions/38
-# https://github.com/Webamoozcom/warning-list/discussions/39
-# https://github.com/Webamoozcom/warning-list/discussions/41
-# https://github.com/Webamoozcom/warning-list/discussions/43
-# https://github.com/Webamoozcom/warning-list/discussions/45
-# https://github.com/Webamoozcom/warning-list/discussions/49
-# https://github.com/Webamoozcom/warning-list/discussions/50
-# https://github.com/Webamoozcom/warning-list/discussions/52
-# https://github.com/Webamoozcom/warning-list/discussions/56
-# https://github.com/Webamoozcom/warning-list/discussions/58
-# https://github.com/Webamoozcom/warning-list/discussions/60
-# https://github.com/Webamoozcom/warning-list/discussions/65
-# https://github.com/Webamoozcom/warning-list/discussions/66
-# https://github.com/Webamoozcom/warning-list/discussions/70
-# https://github.com/Webamoozcom/warning-list/discussions/74
-# https://github.com/Webamoozcom/warning-list/discussions/77
-# https://github.com/Webamoozcom/warning-list/discussions/80
-# https://github.com/Webamoozcom/warning-list/discussions/84
-# https://github.com/Webamoozcom/warning-list/discussions/86
-# https://github.com/Webamoozcom/warning-list/discussions/87
-# https://github.com/Webamoozcom/warning-list/discussions/88
-# https://github.com/Webamoozcom/warning-list/discussions/89
-# https://github.com/Webamoozcom/warning-list/discussions/90
-# https://github.com/Webamoozcom/warning-list/discussions/92
-# https://github.com/Webamoozcom/warning-list/discussions/94
-# https://mediawach. com/introducing-telegram-app-for-mobile-standard-and-premium-versions/
-# https://storage.googleapis.com/support-forums-api/attachment/thread-292146023-803929150591620091.jpg
-# https://support.google.com/chrome/thread/292146023?hl=en&msgid=292530924
-# https://twitter.com/Nikolaona/status/1699167838697652322
-# https://webamooz.com/1402/06/25/%D9%84%D8%A7%DA%A9%D8%B3%D9%88%D9%86-laxxson-%DA%A9%D9%84%D8%A7%D9%87%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D9%BE%D8%A7%D9%86%D8%B2%DB%8C-%D8%A7%D8%B3%D8%AA/
-# https://webamoozcom.github.io/warning-list/
-# par30games.net:
-# pelikan.media (e.g. sharghdaily.com):
-# power-music.ir, skmusic.ir, music-week.ir
-# rokna.net:
-# shahvani.com:
-# sheypoor.com
-# tavoos.net
-# telewebion.com:
-# varzesh3.com:
-# video.varzesh3.com:
-# آمیتیس?
-# لیستی برای برگرداندن آزادی کاربران، چون هر کاربر این آزادی را دارد که چه چیزی وارد مرورگرش می‌شود و چه چیزی وارد نمی‌شود
-# مشارکت: https://github.com/MasterKia/PersianBlocker/pulls
-# مشکل/پیشنهاد: https://github.com/MasterKia/PersianBlocker/issues
 ###kaprila_linktable
 ##.home-zxc
 ##.main-zxc
@@ -874,16 +716,6 @@
 ##.zxc_matni
 ##.zxc_news
 ##.zxc_top
-#-------------------------^ Persian Ads/Trackers/Annoyances Filters ^-----------------------#
-#-------------------------^ Site-Specific Filters ^-----------------------#
-#-------------------------^ WebAmooz Warning List ^-----------------------#
-#-------------------------v Persian Ads/Trackers/Annoyances Filters v-----------------------#
-#-------------------------v Site-Specific Filters v-----------------------#
-#-------------------------v WebAmooz Warning List v-----------------------#
-#-------------------^ Malware/Phishing Sites ^-----------------#
-#-------------------v Malware/Phishing Sites v-----------------#
-#bitbod_trading_club.t.me
-#t.me/BITBOD_TRADING_CLUB
 *###kaprila_linktable
 *##.zxc
 *$frame,3p,domain=kojaro.com
@@ -904,45 +736,6 @@
 /images/advertise^$image,1p,domain=ir|bazimag.com|jahannews.com
 /wp-admin/admin-ajax.php?postviews_id=$xhr,1p
 /wp-content/uploads/*.gif^$image,1p,domain=ir|~ifixit.ir|bazdeh.org|charbzaban.com|chetor.com|dlfox.com|filmin.info|ghatar.com|itresan.com|konkur.info|learnparsi.com|movienama.com|netpaak.com|parsfootball.com|p30konkor.com|rozmusic.com|shanbemag.com|sakhtafzar.com|techrato.com|bazicenter.com|avalnews.com|gamefa.com|takskin.com|avapedia.com|honarfardi.com|graphiran.com|tasvirezendegi.com|par30games.net|elmefarda.com|asbe-bokhar.com|binaopt.com|farachart.com|farsiro.com|techtik.com|androidtime.com|baarzesh.net|p30world.com|shahrebours.com|kamapress.com|kaliboys.com|fontchi.com|tejaratnews.com
-0.0.0.0  pelikan-network.ir
-0.0.0.0 a-banners.divarcdn.com
-0.0.0.0 adengine.telewebion.com
-0.0.0.0 adexo.ir
-0.0.0.0 adexofiles.ir
-0.0.0.0 ads.karzar.net
-0.0.0.0 adsc.beytoote.com
-0.0.0.0 adtrace.io
-0.0.0.0 adverge.ir
-0.0.0.0 arvanvads.ir
-0.0.0.0 binoads.ir
-0.0.0.0 biz-cdn.varzesh3.com
-0.0.0.0 biz.varzesh3.com
-0.0.0.0 chavosh.org
-0.0.0.0 dsp.aparat.com
-0.0.0.0 jtoaxlbas.com
-0.0.0.0 kaprila.com
-0.0.0.0 mediaad.org
-0.0.0.0 najva.com
-0.0.0.0 on-click.ir
-0.0.0.0 onclick.ir
-0.0.0.0 ovrjkuavda.com
-0.0.0.0 popupdl.ir
-0.0.0.0 pushe.co
-0.0.0.0 sabavision.com
-0.0.0.0 sanjagh.com
-0.0.0.0 sorenad.com
-0.0.0.0 tavoos.net
-0.0.0.0 utop.ir
-0.0.0.0 vatanclick.ir
-0.0.0.0 yektabanner.com
-0.0.0.0 yektanet.com
-0.0.0.0 yelloadwise.ir
-0.0.0.0 ylad.ir
-10.10.34.
-10.10.34.*
-10.10.34.34
-10.10.34.35
-10.10.34.36
 1000site.ir##.col-md-offset-6.col-md-3
 1000site.ir##.kanban-col
 1abzar.com##.ads-post
@@ -969,7 +762,6 @@
 20tayi.ir###text-6
 20tayi.ir###text-7
 20tayi.ir##.e3lan
-24d.ir
 4tools.ir##.ads
 55online.news###webgardi_list:upward(.section_cnt)
 55online.news##.featured_news
@@ -986,6 +778,8 @@
 8pic.ir##.links_footer
 8pic.ir##.main22
 8pic.ir##.up_submit > span
+</body></html>
+<html><body><h1>504 Gateway Time-out</h1>
 @@/advertise/*$image,1p,domain=payju.ir
 @@||1000site.ir/asset/images/images/adpage/$image,1p
 @@||1000site.ir/home/ads/asset/favicon.ico$image,1p
@@ -1053,7 +847,7 @@
 @@||yektanet.com/static/vast-client.js^$script,3p,domain=fararu.com|gostaresh.news
 @@||yektanet.com/static/video-js.min.css^$css,3p,domain=fararu.com|gostaresh.news
 @@||yektanet.com/static/video.min.js^$script,3p,domain=fararu.com|gostaresh.news
-[AdBlock]
+The server didn't respond in time.
 [uBlock Origin]
 ^safarmarketId=$doc,removeparam=safarmarketId
 ^utm_source=Torob^$doc,removeparam=/^utm_/
@@ -1062,8 +856,6 @@
 ^utm_source=rokhdad^$doc,removeparam=/^utm_/
 ^utm_source=takhfifan^$doc,removeparam=/^utm_|tatoken/
 ^utm_source=takhfife.com^$doc,removeparam=/^utm_/
-a-banners.divarcdn.com
-a.reymit.ir
 abadis.ir##x
 abipic.com##.ads-text-sid
 abipic.com##.pt-3.text-center.py-2.bg-all-box
@@ -1073,39 +865,7 @@ ac.ir##+js(set, chromeOS, true)
 ac.ir##body[style^="background-image: url(\"/_images/nonprintable.gif\")"]:style(background-image: unset !important;)
 ac.ir##input[id="PreparePrint"]:watch-attr(disabled):remove-attr(disabled)
 accpress.com###text-25
-actionlog.divar.ir
-ad.technews-iran.com
 adanayi.ir,adanayi.blogfa.com##body *:style(-webkit-touch-callout: default !important; -webkit-user-select: text !important; -moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important;)
-adengine.telewebion.com
-adexo.ir
-adexofiles.ir
-adivery.com
-adnegah.net
-adpulse.ir
-adro.co
-adro.ir
-ads.aftab.cc
-ads.akairan.com
-ads.akaup.com
-ads.alaatv.com
-ads.asset.aparat.com
-ads.dabi.ir
-ads.farakav.com
-ads.karzar.net
-ads.safarme.ir
-adsc.beytoote.com
-adsima.net
-adtrace.io
-adtrace.ir
-adtrace.world
-adverge.ir
-adwised.com
-adwisedfs.com
-affili.ir
-affiliate.digikala.com
-affiliate.malltina.com
-affstat.adro.co
-affstat.digikala.com
 afkarnews.com##.main-zxc
 aftab.cc##div.panel:has(> div#collapse_Linkestan)
 aftab.cc##div[style="text-align:right; margin:10px;"]:has(> a[href="http://ads.aftab.cc"])
@@ -1119,7 +879,6 @@ aftabnews.ir##.adv_l
 aftabnews.ir##.adv_r_news2
 aftabyazdonline.ir##.co-ads
 agahinet.com#@#.adv-box
-aitrades.com
 akharinnews.com###ads
 akharinnews.com###left2
 akharinnews.com##.yn-bnr:upward(.custom)
@@ -1136,31 +895,12 @@ alibaba.ir##div.loading-banner-modal.is-loading:remove()
 alldriver.ir###kaprila_linktable
 alldriver.ir###popular
 alldriver.ir##.lolo
-amarfa.ir
 amazing.ir##.widget > .widget-top:has-text(آگهی متنی):upward(.widget)
 ana.press##div.back_links
 anaj.ir##.tab_news > a[href*="gameup.ir"]
 anaj.ir,salamatnews.com##+js(set, document.URL, undefined)
 anaj.ir,salamatnews.com##+js(set, document.referrer, undefined)
 anaj.ir,salamatnews.com##+js(set, jscd, {})
-analysis.faradars.org
-analytic.magland.ir
-analytics-*.aasaam.com
-analytics-2.aasaam.com
-analytics-3.aasaam.com
-analytics.aasaam.com
-analytics.asiatech.ir
-analytics.dunro.com
-analytics.fam.ir
-analytics.football360.ir
-analytics.hostiran.net
-analytics.irancell.ir
-analytics.jeldnews.com
-analytics.labbayk.ir
-analytics.nastooh.ir
-analytics.plaza.ir
-analytics.telewebion.com
-analytics.zoomit.ir
 androidgozar.com##+js(set, ShowPopUp, false)
 androidgozar.com##.ag-agah
 androidgozar.com##.post-sticky:upward(.row)
@@ -1178,7 +918,6 @@ androidparsi.ir##^script:has-text(vc_url)
 androidsharp.com###toshare-dl-link
 androidtime.com##div.block-content[class*="a.d.s-sidebar"]
 androidtime.com##div.single-text-ads
-androidupdate.download
 androidzoom.ir###sidebar .widget a[href*="faradars.org"] > img[alt*="فرادرس"]:upward(.widget)
 androidzoom.ir###sidebar .widget div[id^="kaprila_linktable"]:upward(.widget)
 androidzoom.ir##.content:style(width: 100% !important;)
@@ -1202,13 +941,11 @@ aparat.com##.promote-puls
 aparat.com##.side-ads
 aparat.com##div.video-list:has(> div > div:has(span.ad:has-text(AD)))
 aparat.com##div[type="aparat"]:has(> .link)
-api.karpishe.com
 apktops.ir##.apktops-slider-section ul > li:not(:has(a[href="https://t.me/+UgVXT9YqXOs0MQTy"])):remove()
 apktops.ir##.asiatech
 apktops.ir##.post-article > .content > .row .entry-content:has-text(اسپاتیفای پرمیوم از APKTOPS):upward(.post-article)
 apktops.ir##.spcontent:upward(.post)
 apktops.ir##[id^="linkcat"] > ul > li:not(:has(a[href*="apktops.ir"]))
-apm.bama.ir
 app.blubank.com##*:style(-webkit-touch-callout: default !important; -webkit-user-select: text !important; -moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important;)
 app.blubank.com##+js(aeld, contextmenu, preventDefault)
 app.epoll.pro##*:style(cursor: revert !important; -webkit-touch-callout: default !important; -webkit-user-select: text !important; -khtml-user-select: text !important; -moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important; -webkit-tap-highlight-color: revert !important;)
@@ -1218,7 +955,6 @@ applicationha.com##.baner
 appnab.ir##div#ZAD
 appreview.ir##:not(:matches-path(/category/رپرتاژ-آگهی)) .archive-blog > article > figure > .entry-category:has-text(رپرتاژ آگهی):upward(article)
 appreview.ir##a[onclick^="increase_ad_click_count"]
-apptracking.irancell.ir
 arga-mag.com###yektanet-pos-2:upward(.boxsh)
 arga-mag.com##.bottom-ad
 arga-mag.com##.col-sm-push-2:style(right: unset !important;)
@@ -1230,16 +966,10 @@ arga-mag.com##.mks_ads_widget
 arga-mag.com##.top-ad
 arga-mag.com##.webgardi
 ariapix.net##.textads
-arongroups.co
-artanlife.club
 article.tebyan.net##.AdsContainer
 artmusics.top##aside.left > div.box > div.title:has-text(تبلیغات):upward(div.box)
 artmusics.top##div.app_ads_banner
 artmusics.top,musicpars3.ir,musicguitars.ir,subf2m.ir,zeemusic.ir,najiremix.ir,musichi.ir,likeemusic.ir,appiroid.ir,androidtime.com##+js(nowoif)
-arvanvads.ir
-aryacoin.io
-aryana.io
-aryastake.io
 arzcenter.com##a[href*="nobitex.ir"]
 asandl.com###kaprila_linktable
 asandl.com##.box[class^="asan"]
@@ -1259,14 +989,9 @@ avaz-kurd.ir##.page-body > .post:not(article) > .yn-bnr:empty:upward(.post)
 avaz-kurd.ir##.page-body > .post:not(article) > [id^="pos-article-"]:empty:upward(.post)
 avaz-kurd.ir##.sidebar-right > .box > .title:has-text(لینک های مفید):upward(.box)
 avaz-kurd.ir,power-music.ir##.btn-app
-axotrade.com
-ayyaar.ir
 b2n.ir##.abox
 b2n.ir##.banner
 babapart.com##body:style(-webkit-touch-callout: default !important; -webkit-user-select: text !important; -moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important;)
-backlink.ir
-backority.ir
-bahatoken.site
 balad.ir##div[class^="DownloadAppBanner_container"]
 bandmoviez.one##+js(acis, document.onclick, checkCookie)
 bandmoviez.one##^script:has-text(protoUrl)
@@ -1291,13 +1016,10 @@ beautyhome.ir###ad-hoc-2
 beautyhome.ir##.bdaia-e3-container
 beautyhome.ir##.mks_ads_widget
 beautyhome.ir##.widget_text.bdaia-widget.widget
-behinava.com
 behmusic.com##body:style(cursor: revert !important;)
 behmusic.com##div.mp_box:has(> div.mpbb_ads a[target="_blank"] > img[alt][title])
 behtaraneh.ir##+js(aeld, load, contextmenu)
 behtaraneh.ir##+js(remove-attr, onmousedown|onselectstart, body)
-behtarinseo.ir
-bemchain.io
 benawa.com##.benawa_contentarea .benawa_treeads:upward(.benawa_contentarea)
 benawa.com##.pix_of_day
 benawa.com##div[style="margin-top:4px;overflow:hidden;"]
@@ -1318,14 +1040,7 @@ bils.ir###iddivtoplevelscript
 bils.ir##div[style]:nth-of-type(3)
 binanews.ir##+js(set, openTelegram, noopFunc)
 binaopt.com##*:style(-webkit-touch-callout: default !important; -webkit-user-select: text !important; -moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important;)
-binoads.ir
-bitad.ir
-bixb.exchange
-bixbcoin.com
-biz-cdn.varzesh3.com
-biz.varzesh3.com
 bizma.ir##+js(aeld, /contextmenu|copy|cut/, return"undefined")
-bl9.ir
 blog.ir##+js(set, constant.copyText, '')
 blogsazan.com###macy-container > article > .articlebox > a[href*="/blogsazan.com/mag/reportage"]:upward(article)
 blogsazan.com##.ads_link8
@@ -1337,8 +1052,6 @@ blogsazan.com##.blog_right_bar > .main_title:has-text(آخرین مطالب مج
 blogsazan.com##.hamsandiv
 blogsazan.com##.main_content[style="border-radius:10px;"] > div[style="padding: 10px; text-align:center; font-size:13px;"] > a:upward(.main_content)
 blogsazan.com##center > [href^="https://blogsazan.com/direct_link/?ads"]
-bnbmatrix.io
-boorantech.com
 borna.news##div.selected-news:has(> div.txt_adv_parent)
 bourse24.ir##.ads-margin-bot
 bourse24.ir##[href*="bourse24.ir/ads/click/"]
@@ -1347,7 +1060,6 @@ boyernews.com##.col-md-3 > .panel > .tarh-forosh
 boyernews.com##.col-md-3 > .panel > center
 boyernews.com##.leftads
 brain.be-teb.com##.medicaldirectory-sidebar:nth-of-type(5) > .claims.sidebar-content > .cbp-l-project-details-title > span
-bridge.link
 bultannews.com##.parent_txt_adv_container2
 buzdid.ir##.linkbox
 cafebazaar.ir##div.DownloadSheet.BottomSheet
@@ -1357,15 +1069,9 @@ cannews.aero##.banner-cafe
 cannews.aero##.center-talgh
 car.ir##div.ads
 car.ir##div.mobilefixads
-cashback.takhfifan.com
-cayot.ir
-ccnnetwork.co
-chabok.io
-chancx.io
 charbzaban.com##.at_bottom
 charbzaban.com##.widget:has(.widgettitle:has-text(/پیشنهاد|مفید/))
 charbzaban.com##figcaption
-chavosh.org
 chetor.com###custom_html-51
 chetor.com##.linkbox:upward(4)
 chetor.com#@#.ads-block
@@ -1373,11 +1079,7 @@ chibepoosham.com##.mtn-ads-content-sticky
 chibepoosham.com##img[alt="ad banner"]
 citna.ir##.block-simpleads
 citna.ir##div[id^="block-ad"]
-ck.chavosh.org
-click.digiato.com
 click.ir##.clads-inner
-clickaval.com
-clickyab.com
 coffeeapps.ir###ADbox-1
 coffeeapps.ir###sidebar > .block > h5:has-text(لینک های متنی):upward(.block)
 coffeeapps.ir##+js(acis, disableSelection, reEnable)
@@ -1388,40 +1090,24 @@ coffeeapps.ir##^script[id^="wpcp_"]
 coffeeapps.ir##^style:has-text(@media print)
 coffeeapps.ir##body:style(cursor: revert !important; -webkit-touch-callout: default !important; -webkit-user-select: text !important; -khtml-user-select: text !important; -moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important; -webkit-tap-highlight-color: revert !important;)
 coffeeapps.ir##style:has-text(@media print):remove()
-coinwallet.biz
 computeruser.ir##.after-post-ads
-congoro.com
-congoro.ir
 cooldl.net##.box-title
 cooldl.net##.moreads.widget_text
 cooldl.net##.pm
 cooldl.net#@#.ads-box
 cooldl.net#@#.ads-content
-counter.mahanmusic.net
-counter.musicsweb.ir
-counter.toolsir.com
-countly.virgool.io
-cryptoland.com
-daartads.com
 dabi.ir##.Js_Div5
 dadysite.com##div[id^="topic_"] + div:not([id]):has(a[class=""][target="_blank"])
-dagcoin.org
 dailymobile.ir##+js(acis, vc_url)
 dailymobile.ir##.adsboxfix
 dailymobile.ir##^script:has-text(vc_url)
 dailymobile.ir##div[style*="position: fixed; right: 0px; bottom: 0px;"]:has(> .close-fixedSd)
 dana.ir##div.col-md-12 > div.sidebar-box:has(> div.row > div.text-center > a[target="_blank"][title] > h4.text-dark[style])
 daneshchi.ir##div[id^="ads"]
-daneshin.ir
 darkroid.ir##.app-dl-modal-papa
 darkroid.ir##a.dl-btn:has(> span:has-text(ads))
 darkroid.ir##a[rel="nofollow"]:has(> img[title="تبلیغات"])
 darooyab.ir##.DivContent_BottomOfPageAdvertising
-davedbux.ir
-deema.agency
-deemaagency.ir
-deemanetwork.com
-defigroups.com
 dehlinks.ir##div#kaprila_linktable
 dehlinks.ir##div#mediaad-vFkp
 delbaraneh.com##.widget_custom_html.widget.primary-sidebar-widget.w-t.h-ni.widget_text
@@ -1436,8 +1122,6 @@ deltapayam.com##.bd-adsbar
 deltapayam.com##.bd-sidebar > div > .widget > .block-title:has-text(تبلیغات):upward(.widget)
 deltapayam.com##.delta-content-ads
 deltapayam.com##.delta-top-content-ads
-denutility.com
-dezhino.com
 didarnews.ir##div.col-2:style(width: 100% !important;)
 digiato.com###primary:not(> .categoriesPageHead:has-text(رپورتاژ آگهی)).rowList > li:has(a[href*="/promoted/"])
 digiato.com##.digiBannerArea
@@ -1511,7 +1195,6 @@ downloadsoftware.ir##.ads-matni
 downloadsoftware.ir##.top-ads
 downloadsoftware.ir##:not(:matches-path(/رپورتاژ)) .art-post > .head-post > .cat-post:has-text(رپورتاژ):upward(.art-post)
 drdmag.com##a[href^="https://zaya.io/"]
-dsp.aparat.com
 duckduckgo##ol.react-results--main a[data-testid="result-title-a"][href*="bosgame.ir"]::after:style(content: ' [حذفیات لینک دانلود] ' !important; color: #E6000D !important;)
 duckduckgo##ol.react-results--main a[data-testid="result-title-a"][href*="darkroid.ir"]::after:style(content: ' [حذفیات لینک دانلود] ' !important; color: #E6000D !important;)
 duckduckgo##ol.react-results--main a[data-testid="result-title-a"][href*="download.ir"]::after:style(content: ' [حذفیات لینک دانلود] ' !important; color: #E6000D !important;)
@@ -1608,7 +1291,6 @@ emalls.ir###ContentPlaceHolder1_divBanner
 emeil.ir##[class*="text_ads"]
 emojo.ir##.emojo-ad
 emojo.ir##.pzbkcvuqrn
-emway.ir
 en.gamefa.com##div.single-advertise
 enama.ir##div.avdDiv
 ensafnews.com##.stream-item-widget
@@ -1622,8 +1304,6 @@ eramblog.com##div.blog-home-ads-blog
 eramblog.com##div.main_content[style="border-radius:10px;"]:has(> div[style="padding: 10px; text-align:center; font-size:13px;"])
 eramblog.com##div.main_title:has(> span:has-text(مطالب پیشنهادی از سراسر وب))
 eramblog.com##div[class^="ads_link"]
-error-tracking.arvancloud.com
-errortracking.snapp.site
 estekhtam.com#@#.ads-bottom
 etelanews.com##.centernews_soc
 etelanews.com##.left_pos_mod > .l_box.imgs
@@ -1631,8 +1311,6 @@ etelanews.com##.newstopads
 etelanews.com##.r_box:has(p)
 etelanews.com##.text-ads
 etemadonline.com##.zxc
-ewpb.site
-excoino.com
 ezp30.com###ynpos-10831
 ezp30.com##.ezp30-ads
 ezp30.com##.fix-ez
@@ -1640,13 +1318,10 @@ faaltarin.com##.advertisement
 faceit.ir##.advertisement
 faceit.ir##.header-mdh
 faceit.ir##.pull-right.zm-post-lay-a-area
-facepop.org
-falixa.com
 fam.ir##+js(json-prune, props.children.[].props.children.[].props.children.props.advertisment)
 faraazin.ir#@#.ads-title
 farachart.com##div.g:has(> div.g-col > span[style]:has-text(تبلیغات)):has( div.post-link-box1)
 farachart.com##div.sidebar > div.widget:has(> div.widget-head > h3:has-text(تبلیغات))
-farakav.com
 fardanews.com##.header-adv
 fardanews.com##.n-first-col-left:style(width: 100% !important;)
 fardanews.com##.others_media
@@ -1659,7 +1334,6 @@ farnet.io###site-footer .col-sm-4:has(a[rel="noopener"][target="_blank"])
 farnet.io##+js(acis, eif)
 farnet.io##.content-column:not(> .archive-title:has-text(رپرتاژ تبلیغاتی)) .item-inner:has(a[href*="/pr/"])
 farnet.io##.eif:not(:has(a[href*="farnet.io"]))
-farsbux.ir
 farsifilm.ir##.aside-inner > .widget-sidebar > .title:has-text(/بنر شماره|تبلیغات متنی/):upward(.widget-sidebar)
 farskids.me#@#.ads-banner
 farsnews.ir##div[class^="not-first"] a[rel^="sponsored"]
@@ -1673,7 +1347,6 @@ fartaknews.com##.inline-news-box
 fartaknews.com##.talfighat-row
 fartaknews.com##.ul-talfigh-con
 fartaknews.com##[href^="/advertisements/"]
-fastclick.ir
 fastdic.com##.results__a
 fastmobile.ir##div#ADbox-1
 fastmobile.ir##div#phon
@@ -1716,7 +1389,6 @@ freescript.ir##.left.sidebar_widget:nth-of-type(3)
 freescript.ir##.left_ads
 freescript.ir##.right_ads
 freescript.ir##.top_ads
-frzss.com
 ftdigital.ir##a[href="https://maktabsharif.ir/"]
 gadgetnews.net###ad14
 gadgetnews.net##.ad-cell
@@ -1747,7 +1419,6 @@ gamesib.ir#@#.ads_2
 ganjipakhsh.com##+js(aeld, , t.preventDefault)
 ganjoor.net##a[href^="https://click.kntr.ir/"]
 gapgpt.app##.ad-response-block
-geoip.imber.live
 getandroid.ir##+js(nowoif)
 getandroid.ir##div[class*="linkads"]
 gharbtv.com##.bottom-ads
@@ -1766,7 +1437,6 @@ gostaresh.news##.right_col:style(width: 95% !important;)
 gostaresh.news##.zxc_home
 gostaresh.news##.zxc_left
 gostaresh.news##.zxc_news
-gpm.ltd
 graphiran.com##div.post:has(a[href^="https://www.tarhdokan.com/"])
 graphiran.com##div[id$="col-up"]:has-text(تبلیغات)
 graphiran.com##div[id$="col-up"]:has-text(تبلیغات) + div[id$="col-body"]
@@ -1774,9 +1444,7 @@ graphiran.com##ul#tabligh
 graphiran.com##ul#tablighc
 gsm.ir##.sidebar_tabliq
 gsm.ir##[href^="/ads/"]
-guhtoken.org
 hadese24.ir##div.full-ad-box
-hadeseh.simra.cloud
 hamgardy.com##.sticky-ad
 hamisheonline.com##+js(acis, document.onclick, Hamisheonlinepaps)
 hamkelasi.ir##+js(nano-sib, countdown)
@@ -1785,7 +1453,6 @@ hamshahrionline.ir##.ads.box
 hamshahrionline.ir#@##ads-container
 hamtamovie.nl##+js(href-sanitizer, a[href^="https://hamtamovie.nl/dl/?url="], ?url)
 hamtamovie.nl##section#left-side > aside > h4:has-text(تبلیغات):upward(aside)
-hantana.org
 harfetaze.com##aside.sidebar-right > div.box:has(> div.title > h4.title-text:has-text(تبلیغات متنی))
 harfetaze.com##div.box:has(> div.ads)
 harfetaze.com##div.container > div.ads
@@ -1793,9 +1460,7 @@ harmonydl.us###ads
 harmonydl.us##.cside1 > .hside2:has-text(تبلیغات):upward(.cside1)
 harmonydl.us##.tabliq
 hellodigi.ir##div#sp-right > div.sp-column > div.sp-module:has(> h3.sp-module-title:has-text(حامیان ما))
-hiads.hidoctor.ir
 hidoctor.ir##.doctor-ads-item
-hoho.mobi
 honarehzendegi.com#@#.logo-ad
 honarfardi.com##aside.sidebar .widget:has(a.external)
 icivil.ir##.header-ad
@@ -1823,16 +1488,10 @@ imna.ir##.box:has(header:has-text(تبلیغات متنی))
 imna.ir##.main-content:style(max-width: 100% !important; flex-grow: 1 !important;)
 imna.ir##[href^="/redirect/ads/"]
 imvbox.com##div[class^="cr-banner-"]
-ingest-data-afra.snappfood.dev
-intrack.ir
-ipsite.ir
-ir.mihanstore.net
 iran-music.com##+js(rmnt, script, popTimes_)
 iran-music.com##^script:has-text(popTimes_)
 iranart.news##.type-resource-image
 irancircle.com##.q2am-page-advert
-irancloudmining.com
-irancoinmine.com
 iranecar.com#@#.stream-item-widget
 iranecar.com#@#.widget-ad-image
 iranianuk.com##.ads
@@ -1861,7 +1520,6 @@ itresan.com##div.tabligh
 ivnanews.ir##div.advertising
 ivnanews.ir##div.responsive-image:has(> a[rel$="sponsored"])
 iwo.ir##+js(nano-sib)
-izonekala.com
 jabeh.com##div.video-area > div > div.d-flex:has(> a[href^="/c/"][aria-label="bebin"] > img)
 jafekri.com##*:style(cursor: revert !important; -webkit-touch-callout: default !important; -webkit-user-select: text !important; -khtml-user-select: text !important; -moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important; -webkit-tap-highlight-color: revert !important;)
 jafekri.com##+js(acis, clear_body_at_all_for_extentions)
@@ -1882,7 +1540,6 @@ javan-musics.com##+js(ra, onmousedown|onselectstart, body)
 javan-musics.com#@#.adstop
 jesarat.com##.widget_custom_html
 jesarat.com##aside:nth-of-type(2)
-jetbux.ir
 jeyran.net##+js(acis, document.oncontextmenu)
 jeyran.net##.content_item:has(a[href*="/category/ads/"])
 jeyran.net##.main-content > .row > .content, .main-conten:style(max-width: 99% !important; flex: 0 0 99% !important;)
@@ -1895,7 +1552,6 @@ jobinja.ir##div.c-forceToLogin__content:style(filter: none !important; opacity: 
 jobinja.ir##div.c-forceToLogin__message
 jobinja.ir##div.c-forceToLogin__overlay
 jobvision.ir##+js(no-xhr-if, candidatelogapi method:POST)
-jtoaxlbas.com
 k2cod.com###table10
 k2cod.com###table10 > tbody > tr > .textBoldColor
 k2cod.com###table4 > tbody > tr > td > table > tbody > tr > td > center
@@ -1905,12 +1561,9 @@ kafebook.ir##div.im-entry-top-ad
 kafebook.ir##div.im-header-ad
 kafebook.ir##div.im-top-ad
 kafebook.ir##div.ribp-banners
-kajads.com
 kalakamuz.ir##div.main > div.box:has(> p > a[href="http://botsaz.com/"])
 kalakamuz.ir##div.sidebar > div.box:has(div.row:has-text(تبلیغات))
 kamapress.com##div.ads-list
-kaprila.com
-kar-sentry.karnameh.com
 karbord.io##+js(no-fetch-if, SearchiaClick)
 ketabesabz.com##+js(set, KetabrahPopup, noopFunc)
 ketabesabz.com##div.white-block:nth-of-type(2)
@@ -1962,7 +1615,6 @@ kihanb.ir##^style[media="print"]:has-text(display:none)
 kihanb.ir##style:has-text(user-select):remove()
 kihanb.ir##style[media="print"]:has-text(display:none):remove()
 kilipo.com##.ads-placment
-kingmoney.io
 kojaro.com##div.mobileBanner
 kojaro.com##div.wideheader-b1:has(> div.bannercontainer)
 konkur.in##.mobileBottomAd
@@ -1974,16 +1626,12 @@ konkur.info##.adsside
 konkur.info##.elementor-element-d41b3d1
 konkur.info##.size-large.attachment-large
 koolakmag.ir##.widget_custom_html.widget.container-wrapper.widget_text
-l.24d.ir
 lahzeakhar.com##+js(set, customnotify, noopFunc)
 lamtakam.com##.msg_ad_explain
 lamtakam.com##.msg_ad_pictorial
 lamtakam.com##.msg_ad_subject
-landyab.com
 languagedownload.ir##.type-sticky.status-publish
-laqira.io
 lastsecond.ir##.ads-widget
-laxsson.com
 learnparsi.com##a[href^="https://bit.ly/"]
 lennamusic.ir##div.btn-app
 lenz.ir##+js(aeld, contextmenu, preventDefault, elements, div#rmpPlayer)
@@ -1991,15 +1639,9 @@ lenzak.com###custom_html-4
 lenzak.com###text-31
 lenzak.com###text-35
 lenzak.com##.adbar
-leumia.io
-linkdoni.soft98.ir
-linkfars.com
-linksaz.net
-linkyar.com
 listen2music.ir##.down-box-ads
 listen2music.ir##.down-box1
 listen2music.ir##.side_left > .side > .title:has-text(تبلیغات متنی):upward(.side_left)
-logapi.karbord.io
 logo.samandehi.ir##^responseheader(set-cookie)
 lordroid.com##.footer_column > div > ul > li > a:has-text(طراحی سایت)
 lordroid.com##.lnk > center > a > img[alt="ADS"]:upward(center)
@@ -2008,7 +1650,6 @@ mag.khanoumi.com##.widget-ad-image
 magbazi.com##div.ads_fix_top
 magbazi.com##div.text_ads_box
 magiran.com##div.blur-text
-magnetadservices.com
 majalesalamat.com###text-13
 majalesalamat.com##.adwrap-widget
 mali3.com##.code-block:has(> a[target="_blank"][rel] > img[alt][width="800"][height="100"])
@@ -2017,22 +1658,16 @@ marzfun.com##aside:has(aside>div>div>span:has-text(تبلیغ))
 mashaghelkadeh.com#@#.related-ads
 mashreghnews.ir##[id^="ad"]
 mastertest.ir##div.post-content > div.fusion-builder-row-1 > div.fusion-row:has(> div.fusion-layout-column a[data-wpel-link="external"])
-mat-pnu.ir
 maxstars.ir##a[href="http://www.asalchat.skin"]
 maxstars.ir##a[href="https://www.tarhpardaz.ir"]
-mediaad.org
 mediat.ir##div.ad-wrap
 mediat.ir##div.elementor > section > div.elementor-container:has(h2.heading-title:has-text(لینک‌های کاربردی))
 mediat.ir##div.widget-ad-image
-mediawach.com
 mehrnews.com###ads-container
 mehrnews.com##.ads
 melkana.com##div.sidebar:style(user-select: text !important;)
 mer30download.com##.ads
 mer30download.com##.adsfix_box
-merita.ir
-metrix.behtarino.com
-metrix.ir
 mihand.ir##.entry:has(.title:has-text(تبلیغات))
 mihand.ir##.text-ads
 mihandownload.com##.ads-text-sid
@@ -2048,12 +1683,10 @@ mihantrader.com##div.text-white:has(> div:has-text(AD))
 mihanvideo.com##.side-ads
 mihmansho.com##div.body-main-out.select-lock:remove-class(select-lock)
 mimplus.ir##div#icontent:style(display: block !important;)
-minepi.com
 minevisam.com##.srjtbaungo
 miniroid.com##section.adBox:has(> div.row > div > a[rel$="sponsored"])
 miniroid.com##section.ads
 miniroid.com#@#.adBox
-mitrarank.ir
 mobile.ir###bottombanner
 mobile.ir##.apnl
 mobile.ir##.b
@@ -2066,7 +1699,6 @@ moderndl.com##.sidebar_item > .sidebar_item__inner > .sidebar_item__title:has-te
 modirnameh.ir###sezfvg-2
 modirnameh.ir##.sezfvg
 modirnameh.ir##.sticky-column:not(:has(a[href*="modirnameh.ir"]))
-mogo-crypto.net
 mohandescenter.ir##div.col-12 div#ctl00_topModule1_pnlTop:has(> div.divleftmod > div.py-2 > strong:has-text(جت سئو))
 mojnews.co##[href^="/advertisements/"]
 mojnews.com##.txt-adv-box
@@ -2088,8 +1720,6 @@ moviemag.ir##.eb-inst
 movienama.com##.opanel-ads
 movieyaab.ir##.ad-offer-card
 msbmusic.ir##+js(set, needpop, 0)
-mtabdil.com
-mttcoin.com
 music-fa.com##body:style(cursor: unset !important;)
 musicdays.ir##div.e3lan
 musicdays.ir##div.widget#text-15
@@ -2132,7 +1762,6 @@ nabzefanavari.ir##.txt-box:has(> .txt_adv_content)
 najiremix.ir##+js(rmnt, script, window.location=)
 najiremix.ir##^script:has-text(window.location=)
 najiremix.ir##div.is_ads
-najva.com
 namayesh.com###advertise
 namayesh.com###promotion
 namnak.com###implant-ad-container
@@ -2140,17 +1769,13 @@ namnak.com##.namank-ad
 naslmusic.ir##+js(nowoif)
 nazriyab.app##.header-ex
 neshan.org##div#download_app_suggestion_dialog
-netbina.com
 netgasht.com##+js(set, needpop, 0)
 netnevesht.com#@#.widget-ad
 netpaak.com###text-5
 netpaak.com##.stream-item-above-post
 netpaak.com##.stream-item-widget
-new-sentry.digikala.com
-news-view-api.varzesh3.com
 news.mihanmarket.com###sponsor_wrapper
 news.mihanmarket.com##div.banner_v
-newswidget.net
 nex11music.ir##div.ads_posts
 nex11music.ir,show-music.ir##div.side_left > div.side > div.title:has-text(تبلیغات متنی):upward(div.side)
 nicmusic.net#@#.boxads
@@ -2167,23 +1792,15 @@ ninisite.com##div.ad-wrapper
 ninisite.com##div.up-ad
 ninisite.com#@#.footer__subscribe
 nodud.com##.advertorial
-nokontoken.com
 noorlib.ir##+js(aeld, copy, throw)
 noorlib.ir##div.page-contents > div.footnote-list-container:style(-webkit-touch-callout: default !important; -webkit-user-select: text !important; -moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important;)
 nospam.ir##div#contents a[rel$="sponsored"]
-notifhub.com
 nournews.ir##div#Ads_Fix_pnlMain
-offers.sapra.ir
 oila.tj##+js(aopr, window.LOCO_DATA.copyrightTranslation)
 oila.tj##.new-banner
 omidnamehnews.ir##.adspanel
-on-click.ir
-onclick.ir
 opizo.me##+js(set, count, 0)
 opizo.me##form[action^="link/topPageSubmit/"], div#linkStr:others()
-orbitnetwork.net
-oscaranimation.in
-ovrjkuavda.com
 p30afzar.com##.ADS_header_all
 p30afzar.com##.download-link-ads-below
 p30day.ir##.adsblockpop
@@ -2207,10 +1824,8 @@ p30konkor.com##div.adcontainer div#p30konkor-ads-p > div.bs-vc-wrapper > div#bf-
 p30konkor.com##div.adcontainer div#p30konkor-ads-p > div.bs-vc-wrapper > div.vc_col-sm-4:style(width: 100% !important;)
 p30konkor.com##div.adcontainer div.vc_row:has(div[itemtype$="AdBlock"][data-adid]):last-of-type
 p30konkor.com##style:has-text(@media print):remove()
-p30rank.ir
 p30world.com##div.post-ads
 p30world.com##div.sidebar-ads
-pantatec.ae
 par30dl.net###tabl-bottom-of-header
 par30games.net##.sidebar-box-shop
 par30games.net##.top-large-ads
@@ -2233,7 +1848,6 @@ parsroid.net##.my-single-t-p
 parstools.com##.topbanners
 parstools.com##.widget_whmcs_ads_widget.widget
 parstools.com##.wpb_content_element.sidebar.wpb_widgetised_column
-partclick.ir
 patoghu.com##div.cntmobad
 patoghu.com##div.wblock > a[href*="patoghu.com/repotaz/"]
 payamekhabar.ir##.weblink
@@ -2243,26 +1857,18 @@ paziresh24.com##+js(set-cookie, closeAppBanner, true)
 pedal.ir##div.dotline-sticky
 pedal.ir,filmzi.com##div[class^="sc-"][rowcount][columncount="1"]:has(> div[class^="sc-"] > a[rel="sponsored"])
 pedal.ir,filmzi.com##div[class^="sc-"][spacing="[object Object]"]:has( > span:has-text(تبلیغات))
-pegah.tech
 peivast.com##.multi-ads-container
-pelikan-network.ir
-perlika.com
-persia.exchange
 persian-fa.ir##+js(rmnt, script, displayCountryInConsole)
 persian-fa.ir##^script:has-text(displayCountryInConsole)
 persiangfx.com##div.tab.sidebar-box:nth-of-type(2) > .sidebar-box-content
 persiangfx.com##div.tab.sidebar-box:nth-of-type(2) > h3
-persianrank.ir
 persiansub.com##div.adv
 persiansub.com##div.big-banner
 persianv.com##.ads_box
 persianv.com#@#.ads-text
-peyvandha.ir
 pezeshket.com#@#.stream-item-widget
 pezeshket.com#@#.widget-ad-image
 pgnews.ir##a[href*="&m_name=ads"]
-phoenixad.io
-phonroid.com
 phonroid.ir##.dlbtnhidden
 pichak.net##.dailylink
 pichak.net##body > div > font
@@ -2282,38 +1888,21 @@ plaza.ir#@#.ad__header
 pluginyab.ir##div.ssad
 plus.ir##.top-ad
 podbean.com##.download-dialog
-pooye-ads.com
-popgozar.com
-popina.ir
-popland.info
-popunder.ir
-popupdl.ir
-popupme.net
-popupplus.ir
-posthog.basalam.com
 power-music.ir##+js(nowoif)
 power-music.ir##.sidbar > p > strong:has-text(پیوندها):upward(.sidbar)
 power-music.ir##.yn-bnr
 power-music.ir##.ytn-hamsan
-promizer.com
-propertiq.io
 prozhedownload.com##div.advertop
 public-psychology.ir##+js(rmnt, script, document.oncontextmenu =)
 public-psychology.ir##^script:has-text(document.oncontextmenu =)
 public-psychology.ir##body:style(-webkit-touch-callout: default !important; -webkit-user-select: text !important; -moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important;)
-publica.ir
-pushe.co
-pushq.ir
 qnama.ir##div#ads1
-quahl.com
-radar.bayan.ir
 radiojavan-iran.com##.ads.big_post
 radiojavan-iran.com##.ads_box
 radiojavan-iran.com##.cat
 rahnamato.ir##.c-advertisement
 rajanews.com###block-block-22.ads
 rajanews.com##.ads
-rankirani.ir
 rasm.io##+js(set-local-storage-item, VisitedCompanies, $remove$)
 rasm.io##div.MuiGrid-root[class*="hsCode_LimitedItem__"]:style(-webkit-filter: none !important; filter: none !important; pointer-events: auto !important;)
 rasm.io##div[class*="blockByVisit_blockByVisit__container"]
@@ -2348,13 +1937,10 @@ rozmusic.com##.fara-main
 rozup.ir##.center.body_c > div > div
 rozup.ir##.center.body_c > div:nth-of-type(2)
 rozup.ir##.txtad
-rssbank.ir
 s-moshaver.com##+js(aeld, contextmenu)
 s-moshaver.com##+js(set, disableSelection, noopFunc)
 saat24.news##li[id^="ad"]:upward(section.box)
 saat24.news##section.box ul > li.bklnk:upward(section.box)
-sabaidea.cloud
-sabavision.com
 sabtta.com##a[href="https://academy-eris.com/"]
 sabtta.com##a[href="https://sahamir-ac.com/"]
 sabtta.com##a[href="https://sarafer.com/"]
@@ -2383,8 +1969,6 @@ salamdl.rip##.hidden-xs.hidden-sm.block
 salamdl.rip##.hideOnMobile
 salameno.com##.ads
 salameno.com##.box:has(header:has-text(مفید))
-sanjagh.com
-sanjagh.net
 sargarme.com##.ads2
 sariasan.com##div.top-banner
 sarzamindownload.com##.GSAdsLR
@@ -2401,7 +1985,6 @@ sclinic.ir##^script[id^="wpcp_"]
 sclinic.ir##^style:has-text(@media print)
 sclinic.ir##body:style(cursor: revert !important; -webkit-touch-callout: default !important; -webkit-user-select: text !important; -khtml-user-select: text !important; -moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important; -webkit-tap-highlight-color: revert !important;)
 sclinic.ir##style:has-text(@media print):remove()
-scripts-ads.s3.ir-thr-at1.arvanstorage.com
 search.bertina.ir##[data-ad-id]
 search.brave.com##div#results > div.snippet > a.result-header[href*="//filmkio"] > span.snippet-title::after:style(content: ' [نیمه‌اشتراکی] ' !important; color: #64b502 !important; font-weight: bold !important;)
 search.brave.com##div#results > div.snippet > a.result-header[href*="//zfilm"] > span.snippet-title::after:style(content: ' [نیمه‌اشتراکی] ' !important; color: #64b502 !important; font-weight: bold !important;)
@@ -2470,23 +2053,6 @@ seemorgh.com##.bannergroup
 seemorgh.com##.bannergroupsam-full-width
 sena.ir###ad7_40
 sena.ir##.footer-ads
-sendword.ir
-sentry.alaatv.com
-sentry.alibaba.ir
-sentry.bale.sh
-sentry.basalam.com
-sentry.cafebazaar.org
-sentry.divar.cloud
-sentry.fidibo.net
-sentry.filmnet.ir
-sentry.footballiapp.com
-sentry.hamravesh.com
-sentry.malltina.com
-sentry.mci.dev
-sentry.mielse.com
-sentry.namava.ir
-sentry.querastaff.ir
-sentry.virgool.io
 setare.com##.chavosh-ad-box
 setare.com##.cyt-ad-content
 setare.com##.homebar a[href="https://setare.com/%d8%aa%d8%a8%d9%84%db%8c%d8%ba%d8%a7%d8%aa/"] > img
@@ -2515,7 +2081,6 @@ shahrsakhtafzar.com##.ads2colmobile
 shahrsakhtafzar.com##.flexbanneritem
 shahrsakhtafzar.com##.mobile-fix-bottom
 shahrsakhtafzar.com##:not(:matches-path(/fa/news/pr)) .items-row:has(.sazitem_imgcat:has-text(رپورتاژ آگهی))
-shamining.com
 shanbemag.com##.qxsbniv
 sharghdaily.com##.header_adv
 sharghdaily.com##.zxc
@@ -2557,7 +2122,6 @@ skinak.ir##div.left-body:has(> div.text div.text-ads)
 skinak.ir##div.right-body:has(> div.text div.adsr)
 skyroom.online##+js(json-prune, result.adsText result.adsLink)
 skyroom.online##div.banner:has(> a > img)
-smartgalaxy.finance
 smusic.ir##.heading-ads
 smusic.ir##.sidebar-right > div.box:nth-of-type(1)
 snapp.doctor##main > div[class^="sc-"]:has(> div.install-container)
@@ -2570,20 +2134,13 @@ softgozar.com##div#advBan
 softgozar.com##div#advBan2
 softgozar.com##div#left_panel > div#RightPan:has(ul.adv_text)
 softsaaz.ir##.stream-item
-soodland.com
 soorban.com##div.ecbox2:has(> div.ec_body2 > div.adswrapper)
 soorban.com##div.ecbox:has(div.ads_text, div.text-ads)
-sorenad.com
 sornamusic.ir##.textwidget
 sornamusic.ir##aside:nth-of-type(5)
 sourceiran.com##.ads-link
 sourceiran.com##.middle-ads
 sourceiran.com#@#.ads-widget
-spellads.com
-spellpop.ir
-spotyfile.com
-statsfa.com
-stc.ninisite.com
 subf2m.ir##a[class^="text-ads-"]
 subf2m.ir##div.backoritybase
 subf2m.ir##p:has(> a[href^="https://shirazsocial.com"])
@@ -2591,17 +2148,14 @@ subkade.ir##+js(nano-sib, countdown)
 subkade.ir##div.sk-section:has(> div[class*="sponsor-"])
 subkade.ir##div.sk-side:has(> div.sk-side-title:has-text(/لینک‌های پیشنهادی|منتخب پیشنهاد امروز|روز/))
 subkade.ir##html:style(-webkit-touch-callout: default !important; -webkit-user-select: text !important; -moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important;)
-synchrobit.io
 tabanmusic.com,texahang.org,iran-music.com##+js(aeld, load, contextmenu)
 tabanmusic.com,texahang.org,iran-music.com##+js(ra, onmousedown|onselectstart, body)
-tabligheirani.ir
 tabnak.ir###cycle_adv_tabnak
 tabnak.ir##+js(acis, document.write, renderAds)
 tabnak.ir##.box:has(.top_title:has-text(نیازمندیها))
 tabnak.ir##.film_box:has-text(مدرسه آنلاین)
 tabnak.ir##.stitle_box:has(.top_title:has-text(وب گردی))
 tabnakjavan.com#@#.top_adv
-tadv.didestan.net
 tajmusics.com##div.th_bnr
 tajrobe.wiki##div.ads
 tak3da.com##+js(aopr, SGPB_POPUP_PARAMS)
@@ -2636,13 +2190,11 @@ taktemp.com##.link-ads
 taktemp.com##.topbanners
 takvim.tj##a[name^=Advertisement]:upward(.wb_element)
 talab.org##.Topadver
-talapop.ir
 tamasha.com##+js(cookie-remover, tracker_visitor_id)
 tamasha.com##+js(set, VASTEnabled, false)
 tamasha.com##+js(set, socketUrl, undefined)
 tamasha.com##+js(set, vastURL, [])
 tamin.ir#@#.ads2
-tapsell.ir
 tarafdari.com##+js(rmnt, script, showScrollAlert)
 tarafdari.com##^script:has-text(showScrollAlert)
 tarafdari.com##aside.column-side > div.block:has(> div.block-title:has-text(وبگردی))
@@ -2658,10 +2210,6 @@ tasnimnews.com##.ad-item
 tasnimnews.com##.ads
 tasnimnews.com##.ads-footer
 tasnimnews.com##.col-md-9:style(width: 100% !important;)
-tastenfts.com
-tavoos.net
-tbli.ir
-te1.ir
 tebyan.net##.ads
 techfars.com##.baners
 techfars.com##.left-ads
@@ -2697,7 +2245,6 @@ tigatravel.com##+js(aost, document.createElement, join_telegram)
 timecity.ir##.banner
 timecity.ir##.inner-wrapper-sticky > .mb-3
 timecity.ir##.sidebar-banners
-tinancefa.org
 tinn.ir##.type-resource-image
 tinn.ir##[href^="/advertisements/"]
 tinroid.ir##+js(aopr, tinPa)
@@ -2710,7 +2257,6 @@ top2download.com##.ads-box-green
 top2download.com##.ads-box-red
 top90.ir##.side1:has(a[title][rel="noopener noreferrer"])
 topnaz.com##.light-text.footer-widgets
-toppopup.com
 topseda.ir##.advertisment
 toranji.ir###fpc-banner-top
 toranji.ir###mostvisited:has(.widget-title:has-text(تبلیغات متنی))
@@ -2729,19 +2275,9 @@ tourismonline.co##.ads-title
 tourismonline.co##.stream-item-above-post.stream-item
 tourismonline.co##.stream-item-mag.mag-box
 tourismonline.co##.widget_custom_html.widget.container-wrapper.widget_text
-tracker.digikala.com
-tracker.farsnews.ir
-tracker.jabama.com
-tradergpt.ai
 trainbit.com##section#downloadbox > div#indicatorr
 trainbit.com##section#downloadbox > input#btnDownload:style(display: block !important;)
-trc.metrix.ir
-treenvest.com
-triboon.net
-trustseal.e-rasaneh.ir
 trustseal.enamad.ir##^responseheader(set-cookie)
-unique.finance
-unitedsolarinfinity.com
 up.20script.ir##+js(nano-stb, tick)
 up.20script.ir##.k-banner
 up44.ir##+js(nano-sib, , , 0)
@@ -2766,8 +2302,6 @@ upsara.com##img[alt="ads"]
 uptrack.ir##+js(nowoif)
 uptrack.ir##a[href*="utm_source=uptrack"]
 uptrack.ir##aside.widget_text > div.aside_box_title:has-text(لینک های ویژه):upward(aside.widget_text)
-utbyte.io
-utop.ir
 uupload.ir###tabligh
 uupload.ir##+js(nano-sib)
 uupload.ir##.links_footer
@@ -2792,14 +2326,10 @@ varoone.ir##.headads
 varoone.ir##.textads
 varzesh3.com##.adbox
 varzesh3.com##[data-ad]
-vast.filmnet.ir
-vatanclick.ir
 vazeh.com##div.main > div.mainx1 > div:has(> span.side-title:has-text(تبلیغات))
 vgdl.ir##.vgdl_new_ads
 vgdl.ir##div#ads__start_of_the_post
 video-learn.ir#@#.header-adv
-video-view-api.varzesh3.com
-vidomusic.org
 vigiato.net##.ad_290_290
 vigiato.net##.ad_728_90
 vipofilm.com##.ads
@@ -2811,24 +2341,16 @@ virgool.io##body > div:has(> div > a[rel="sponsored"])
 virgool.io##body[style="overflow: hidden;"]:style(overflow: auto !important;)
 virgool.io##div.is-justify-content-flex-end > a#js-register-button + div[style]:has(> input[placeholder^="شماره موبایل"])
 virgool.io##div.js-userLogin-popup
-waykingroup.com
 web.bale.ai##div[data-sentry-component="createSponsoredMessageItem"]
 web.bale.ai##div[data-testid="dialog-ad"]
 web.eitaa.com##.ads-active
 web.eitaa.com##.ads-dialog-box
 web.rubika.ir##rb-chat-ads-container
 web.splus.ir##.ListItem:has(span.AdvertisementIcon)
-websocket.55online.news
-websocket.ilna.ir
-websocket.khanefootball.com
-websocket.sobhtazeh.news
-websocket.varandaz.com
 wikihoghoogh.net###siteNotice
 wikisemnan.com###text-12
 wikisemnan.com###text-24
 wikisemnan.com#@#.ads-image
-wintap.io
-ws.namava.ir
 www.digikala.com##a[href^="https://tabdeal.org/"].w-full
 www.digikala.com##article > .items-center .mr-auto > .mr-1 > svg[style$="fill: var(--color-ad);"] .text-neutral-500::after:style(content: ' 🚫 (تبلیغ) 🚫 ' !important; color: red !important; font-weight: bold !important;  font-size: large !important;)
 www.digikala.com##div#ProductListPagesWrapper > section > div[class^="product-list_ProductList__pagesContainer"] > div[class^="product-list_ProductList__item__"]:has(> a[href*="?ad_variant_id"])
@@ -2953,12 +2475,7 @@ www.google.com##div#search span[jsaction] > a[href*="zarfilm.com"]> h3::after:st
 yasdl.com##.fixed-post
 yasdl.com##.sidebar-textads
 yasdl.com##.top-ads-wrap:style(width: 0px !important; height: 0px !important;)
-yektabanner.com
 yektablog.net###popbox-blackout
-yektanet.com
-yelloadwise.ir
-ylad.ir
-yoozbit.com
 zoomit.ir##div.mt-4 > a[href^="https://www.zoomit.ir/pr/"]
 zoomit.ir##div.mt-4 > a[href^="https://www.zoomit.ir/pr/"] + .bg-borderPrimary
 zoomit.ir##div[class^="sc-"][flexdirection="column"][flexwrap="nowrap"] > .flex > .scroll-m-16:has(> a[href^="https://www.zoomit.ir/pr/"])
